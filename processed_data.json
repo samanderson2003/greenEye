@@ -1,0 +1,5406 @@
+{
+    "ANDHRA PRADESH": {
+        "districts": [
+            {
+                "name": "PRAKASAM",
+                "data": {
+                    "No. of AIs": 536828,
+                    "No. of PDs": 267710,
+                    "No. of Calvings": 27766,
+                    "Farmers Benefited": 330272
+                }
+            },
+            {
+                "name": "SPSR NELLORE",
+                "data": {
+                    "No. of AIs": 470172,
+                    "No. of PDs": 229971,
+                    "No. of Calvings": 37295,
+                    "Farmers Benefited": 302642
+                }
+            },
+            {
+                "name": "Palnadu",
+                "data": {
+                    "No. of AIs": 448287,
+                    "No. of PDs": 186564,
+                    "No. of Calvings": 38288,
+                    "Farmers Benefited": 244227
+                }
+            },
+            {
+                "name": "Bapatla",
+                "data": {
+                    "No. of AIs": 438729,
+                    "No. of PDs": 183685,
+                    "No. of Calvings": 28039,
+                    "Farmers Benefited": 261021
+                }
+            },
+            {
+                "name": "SRIKAKULAM",
+                "data": {
+                    "No. of AIs": 422486,
+                    "No. of PDs": 184943,
+                    "No. of Calvings": 20171,
+                    "Farmers Benefited": 318578
+                }
+            },
+            {
+                "name": "Anakapalli",
+                "data": {
+                    "No. of AIs": 389547,
+                    "No. of PDs": 140286,
+                    "No. of Calvings": 9440,
+                    "Farmers Benefited": 275775
+                }
+            },
+            {
+                "name": "CHITTOOR",
+                "data": {
+                    "No. of AIs": 367581,
+                    "No. of PDs": 164482,
+                    "No. of Calvings": 19906,
+                    "Farmers Benefited": 277107
+                }
+            },
+            {
+                "name": "Annamayya",
+                "data": {
+                    "No. of AIs": 349674,
+                    "No. of PDs": 163052,
+                    "No. of Calvings": 17216,
+                    "Farmers Benefited": 247215
+                }
+            },
+            {
+                "name": "VIZIANAGARAM",
+                "data": {
+                    "No. of AIs": 348162,
+                    "No. of PDs": 113440,
+                    "No. of Calvings": 7348,
+                    "Farmers Benefited": 222449
+                }
+            },
+            {
+                "name": "Eluru",
+                "data": {
+                    "No. of AIs": 342907,
+                    "No. of PDs": 116385,
+                    "No. of Calvings": 12050,
+                    "Farmers Benefited": 201265
+                }
+            },
+            {
+                "name": "GUNTUR",
+                "data": {
+                    "No. of AIs": 321603,
+                    "No. of PDs": 142102,
+                    "No. of Calvings": 18268,
+                    "Farmers Benefited": 168781
+                }
+            },
+            {
+                "name": "Y.S.R.",
+                "data": {
+                    "No. of AIs": 308943,
+                    "No. of PDs": 175019,
+                    "No. of Calvings": 21492,
+                    "Farmers Benefited": 215968
+                }
+            },
+            {
+                "name": "KRISHNA",
+                "data": {
+                    "No. of AIs": 283631,
+                    "No. of PDs": 70548,
+                    "No. of Calvings": 7147,
+                    "Farmers Benefited": 158770
+                }
+            },
+            {
+                "name": "Kakinada",
+                "data": {
+                    "No. of AIs": 279586,
+                    "No. of PDs": 113562,
+                    "No. of Calvings": 8389,
+                    "Farmers Benefited": 192695
+                }
+            },
+            {
+                "name": "Konaseema",
+                "data": {
+                    "No. of AIs": 261544,
+                    "No. of PDs": 90731,
+                    "No. of Calvings": 9516,
+                    "Farmers Benefited": 184788
+                }
+            },
+            {
+                "name": "Tirupati",
+                "data": {
+                    "No. of AIs": 253708,
+                    "No. of PDs": 106314,
+                    "No. of Calvings": 9115,
+                    "Farmers Benefited": 186660
+                }
+            },
+            {
+                "name": "Nandyal",
+                "data": {
+                    "No. of AIs": 249474,
+                    "No. of PDs": 140344,
+                    "No. of Calvings": 27148,
+                    "Farmers Benefited": 178532
+                }
+            },
+            {
+                "name": "WEST GODAVARI",
+                "data": {
+                    "No. of AIs": 207030,
+                    "No. of PDs": 67403,
+                    "No. of Calvings": 7230,
+                    "Farmers Benefited": 135594
+                }
+            },
+            {
+                "name": "Sri Sathya Sai",
+                "data": {
+                    "No. of AIs": 197118,
+                    "No. of PDs": 73202,
+                    "No. of Calvings": 6643,
+                    "Farmers Benefited": 143906
+                }
+            },
+            {
+                "name": "ANANTAPUR",
+                "data": {
+                    "No. of AIs": 185532,
+                    "No. of PDs": 104971,
+                    "No. of Calvings": 8150,
+                    "Farmers Benefited": 138902
+                }
+            },
+            {
+                "name": "NTR",
+                "data": {
+                    "No. of AIs": 182366,
+                    "No. of PDs": 56460,
+                    "No. of Calvings": 9894,
+                    "Farmers Benefited": 104513
+                }
+            },
+            {
+                "name": "EAST GODAVARI",
+                "data": {
+                    "No. of AIs": 176170,
+                    "No. of PDs": 52108,
+                    "No. of Calvings": 5447,
+                    "Farmers Benefited": 102817
+                }
+            },
+            {
+                "name": "KURNOOL",
+                "data": {
+                    "No. of AIs": 175239,
+                    "No. of PDs": 79875,
+                    "No. of Calvings": 14704,
+                    "Farmers Benefited": 132657
+                }
+            },
+            {
+                "name": "Parvathipuram Manyam",
+                "data": {
+                    "No. of AIs": 111564,
+                    "No. of PDs": 37019,
+                    "No. of Calvings": 2519,
+                    "Farmers Benefited": 69828
+                }
+            },
+            {
+                "name": "VISAKHAPATANAM",
+                "data": {
+                    "No. of AIs": 93277,
+                    "No. of PDs": 44084,
+                    "No. of Calvings": 9268,
+                    "Farmers Benefited": 60670
+                }
+            },
+            {
+                "name": "Alluri Sitharama Raju",
+                "data": {
+                    "No. of AIs": 10166,
+                    "No. of PDs": 3696,
+                    "No. of Calvings": 222,
+                    "Farmers Benefited": 7368
+                }
+            }
+        ]
+    },
+    "ARUNACHAL PRADESH": {
+        "districts": [
+            {
+                "name": "PAPUM PARE",
+                "data": {
+                    "No. of AIs": 355,
+                    "No. of PDs": 26,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 232
+                }
+            },
+            {
+                "name": "LOHIT",
+                "data": {
+                    "No. of AIs": 226,
+                    "No. of PDs": 161,
+                    "No. of Calvings": 37,
+                    "Farmers Benefited": 204
+                }
+            },
+            {
+                "name": "NAMSAI",
+                "data": {
+                    "No. of AIs": 196,
+                    "No. of PDs": 49,
+                    "No. of Calvings": 24,
+                    "Farmers Benefited": 109
+                }
+            },
+            {
+                "name": "LOWER SUBANSIRI",
+                "data": {
+                    "No. of AIs": 166,
+                    "No. of PDs": 51,
+                    "No. of Calvings": 7,
+                    "Farmers Benefited": 78
+                }
+            },
+            {
+                "name": "EAST SIANG",
+                "data": {
+                    "No. of AIs": 140,
+                    "No. of PDs": 46,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 108
+                }
+            },
+            {
+                "name": "WEST KAMENG",
+                "data": {
+                    "No. of AIs": 35,
+                    "No. of PDs": 3,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 18
+                }
+            },
+            {
+                "name": "WEST SIANG",
+                "data": {
+                    "No. of AIs": 3,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 3
+                }
+            },
+            {
+                "name": "EAST KAMENG",
+                "data": {
+                    "No. of AIs": 2,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 2
+                }
+            }
+        ]
+    },
+    "ASSAM": {
+        "districts": [
+            {
+                "name": "NAGAON",
+                "data": {
+                    "No. of AIs": 98013,
+                    "No. of PDs": 60411,
+                    "No. of Calvings": 13897,
+                    "Farmers Benefited": 90422
+                }
+            },
+            {
+                "name": "BARPETA",
+                "data": {
+                    "No. of AIs": 94266,
+                    "No. of PDs": 52513,
+                    "No. of Calvings": 12632,
+                    "Farmers Benefited": 83177
+                }
+            },
+            {
+                "name": "KAMRUP",
+                "data": {
+                    "No. of AIs": 73684,
+                    "No. of PDs": 48804,
+                    "No. of Calvings": 12134,
+                    "Farmers Benefited": 67166
+                }
+            },
+            {
+                "name": "NALBARI",
+                "data": {
+                    "No. of AIs": 61065,
+                    "No. of PDs": 28284,
+                    "No. of Calvings": 7941,
+                    "Farmers Benefited": 54814
+                }
+            },
+            {
+                "name": "HOJAI",
+                "data": {
+                    "No. of AIs": 57721,
+                    "No. of PDs": 34443,
+                    "No. of Calvings": 8953,
+                    "Farmers Benefited": 51470
+                }
+            },
+            {
+                "name": "DARRANG",
+                "data": {
+                    "No. of AIs": 57137,
+                    "No. of PDs": 36378,
+                    "No. of Calvings": 9565,
+                    "Farmers Benefited": 53480
+                }
+            },
+            {
+                "name": "SONITPUR",
+                "data": {
+                    "No. of AIs": 53308,
+                    "No. of PDs": 29930,
+                    "No. of Calvings": 2558,
+                    "Farmers Benefited": 48759
+                }
+            },
+            {
+                "name": "MARIGAON",
+                "data": {
+                    "No. of AIs": 50106,
+                    "No. of PDs": 34744,
+                    "No. of Calvings": 11351,
+                    "Farmers Benefited": 45925
+                }
+            },
+            {
+                "name": "BONGAIGAON",
+                "data": {
+                    "No. of AIs": 48229,
+                    "No. of PDs": 24766,
+                    "No. of Calvings": 11020,
+                    "Farmers Benefited": 43194
+                }
+            },
+            {
+                "name": "DHUBRI",
+                "data": {
+                    "No. of AIs": 41239,
+                    "No. of PDs": 22632,
+                    "No. of Calvings": 8031,
+                    "Farmers Benefited": 38744
+                }
+            },
+            {
+                "name": "GOALPARA",
+                "data": {
+                    "No. of AIs": 38570,
+                    "No. of PDs": 23539,
+                    "No. of Calvings": 7139,
+                    "Farmers Benefited": 35468
+                }
+            },
+            {
+                "name": "KAMRUP METRO",
+                "data": {
+                    "No. of AIs": 29713,
+                    "No. of PDs": 13622,
+                    "No. of Calvings": 2449,
+                    "Farmers Benefited": 22643
+                }
+            },
+            {
+                "name": "LAKHIMPUR",
+                "data": {
+                    "No. of AIs": 26207,
+                    "No. of PDs": 15411,
+                    "No. of Calvings": 6290,
+                    "Farmers Benefited": 23348
+                }
+            },
+            {
+                "name": "UDALGURI",
+                "data": {
+                    "No. of AIs": 25203,
+                    "No. of PDs": 15660,
+                    "No. of Calvings": 4836,
+                    "Farmers Benefited": 23567
+                }
+            },
+            {
+                "name": "TINSUKIA",
+                "data": {
+                    "No. of AIs": 23404,
+                    "No. of PDs": 11102,
+                    "No. of Calvings": 5425,
+                    "Farmers Benefited": 17222
+                }
+            },
+            {
+                "name": "Biswanath",
+                "data": {
+                    "No. of AIs": 20293,
+                    "No. of PDs": 12720,
+                    "No. of Calvings": 5806,
+                    "Farmers Benefited": 18690
+                }
+            },
+            {
+                "name": "DIBRUGARH",
+                "data": {
+                    "No. of AIs": 19299,
+                    "No. of PDs": 8266,
+                    "No. of Calvings": 3607,
+                    "Farmers Benefited": 14648
+                }
+            },
+            {
+                "name": "BAKSA",
+                "data": {
+                    "No. of AIs": 19014,
+                    "No. of PDs": 10411,
+                    "No. of Calvings": 1373,
+                    "Farmers Benefited": 17555
+                }
+            },
+            {
+                "name": "HAILAKANDI",
+                "data": {
+                    "No. of AIs": 18535,
+                    "No. of PDs": 8580,
+                    "No. of Calvings": 3468,
+                    "Farmers Benefited": 16766
+                }
+            },
+            {
+                "name": "GOLAGHAT",
+                "data": {
+                    "No. of AIs": 18368,
+                    "No. of PDs": 9255,
+                    "No. of Calvings": 1751,
+                    "Farmers Benefited": 16105
+                }
+            },
+            {
+                "name": "JORHAT",
+                "data": {
+                    "No. of AIs": 18082,
+                    "No. of PDs": 7803,
+                    "No. of Calvings": 3119,
+                    "Farmers Benefited": 14209
+                }
+            },
+            {
+                "name": "SIVASAGAR",
+                "data": {
+                    "No. of AIs": 15925,
+                    "No. of PDs": 7623,
+                    "No. of Calvings": 1021,
+                    "Farmers Benefited": 13808
+                }
+            },
+            {
+                "name": "KOKRAJHAR",
+                "data": {
+                    "No. of AIs": 15878,
+                    "No. of PDs": 7866,
+                    "No. of Calvings": 2515,
+                    "Farmers Benefited": 14731
+                }
+            },
+            {
+                "name": "CACHAR",
+                "data": {
+                    "No. of AIs": 14889,
+                    "No. of PDs": 7563,
+                    "No. of Calvings": 1109,
+                    "Farmers Benefited": 13929
+                }
+            },
+            {
+                "name": "CHIRANG",
+                "data": {
+                    "No. of AIs": 13725,
+                    "No. of PDs": 7374,
+                    "No. of Calvings": 3360,
+                    "Farmers Benefited": 12678
+                }
+            },
+            {
+                "name": "KARIMGANJ",
+                "data": {
+                    "No. of AIs": 12271,
+                    "No. of PDs": 7982,
+                    "No. of Calvings": 2224,
+                    "Farmers Benefited": 10182
+                }
+            },
+            {
+                "name": "SOUTH SALMARA MANCACHAR",
+                "data": {
+                    "No. of AIs": 10152,
+                    "No. of PDs": 5276,
+                    "No. of Calvings": 836,
+                    "Farmers Benefited": 9356
+                }
+            },
+            {
+                "name": "TAMULPUR",
+                "data": {
+                    "No. of AIs": 7488,
+                    "No. of PDs": 2661,
+                    "No. of Calvings": 1251,
+                    "Farmers Benefited": 6979
+                }
+            },
+            {
+                "name": "DHEMAJI",
+                "data": {
+                    "No. of AIs": 6738,
+                    "No. of PDs": 2757,
+                    "No. of Calvings": 679,
+                    "Farmers Benefited": 5864
+                }
+            },
+            {
+                "name": "WEST KARBI ANGLONG",
+                "data": {
+                    "No. of AIs": 6375,
+                    "No. of PDs": 3446,
+                    "No. of Calvings": 1379,
+                    "Farmers Benefited": 5748
+                }
+            },
+            {
+                "name": "KARBI ANGLONG",
+                "data": {
+                    "No. of AIs": 5891,
+                    "No. of PDs": 3716,
+                    "No. of Calvings": 1792,
+                    "Farmers Benefited": 5218
+                }
+            },
+            {
+                "name": "CHARAIDEO",
+                "data": {
+                    "No. of AIs": 5021,
+                    "No. of PDs": 2706,
+                    "No. of Calvings": 548,
+                    "Farmers Benefited": 4287
+                }
+            },
+            {
+                "name": "MAJULI",
+                "data": {
+                    "No. of AIs": 3609,
+                    "No. of PDs": 1982,
+                    "No. of Calvings": 574,
+                    "Farmers Benefited": 3298
+                }
+            },
+            {
+                "name": "DIMA HASAO",
+                "data": {
+                    "No. of AIs": 722,
+                    "No. of PDs": 379,
+                    "No. of Calvings": 84,
+                    "Farmers Benefited": 618
+                }
+            }
+        ]
+    },
+    "BIHAR": {
+        "districts": [
+            {
+                "name": "SAMASTIPUR",
+                "data": {
+                    "No. of AIs": 278816,
+                    "No. of PDs": 105388,
+                    "No. of Calvings": 43542,
+                    "Farmers Benefited": 222245
+                }
+            },
+            {
+                "name": "MUZAFFARPUR",
+                "data": {
+                    "No. of AIs": 184477,
+                    "No. of PDs": 15340,
+                    "No. of Calvings": 3152,
+                    "Farmers Benefited": 142568
+                }
+            },
+            {
+                "name": "PURBI CHAMPARAN",
+                "data": {
+                    "No. of AIs": 141210,
+                    "No. of PDs": 57654,
+                    "No. of Calvings": 12745,
+                    "Farmers Benefited": 122434
+                }
+            },
+            {
+                "name": "SAHARSA",
+                "data": {
+                    "No. of AIs": 124743,
+                    "No. of PDs": 78693,
+                    "No. of Calvings": 20456,
+                    "Farmers Benefited": 86435
+                }
+            },
+            {
+                "name": "SARAN",
+                "data": {
+                    "No. of AIs": 118956,
+                    "No. of PDs": 27031,
+                    "No. of Calvings": 9411,
+                    "Farmers Benefited": 93369
+                }
+            },
+            {
+                "name": "SUPAUL",
+                "data": {
+                    "No. of AIs": 111387,
+                    "No. of PDs": 79430,
+                    "No. of Calvings": 20102,
+                    "Farmers Benefited": 86274
+                }
+            },
+            {
+                "name": "BEGUSARAI",
+                "data": {
+                    "No. of AIs": 106875,
+                    "No. of PDs": 15451,
+                    "No. of Calvings": 6093,
+                    "Farmers Benefited": 89561
+                }
+            },
+            {
+                "name": "KHAGARIA",
+                "data": {
+                    "No. of AIs": 98488,
+                    "No. of PDs": 36870,
+                    "No. of Calvings": 11157,
+                    "Farmers Benefited": 84270
+                }
+            },
+            {
+                "name": "PATNA",
+                "data": {
+                    "No. of AIs": 97838,
+                    "No. of PDs": 37325,
+                    "No. of Calvings": 18674,
+                    "Farmers Benefited": 74003
+                }
+            },
+            {
+                "name": "MADHEPURA",
+                "data": {
+                    "No. of AIs": 96610,
+                    "No. of PDs": 57281,
+                    "No. of Calvings": 13415,
+                    "Farmers Benefited": 62326
+                }
+            },
+            {
+                "name": "VAISHALI",
+                "data": {
+                    "No. of AIs": 83797,
+                    "No. of PDs": 34309,
+                    "No. of Calvings": 12920,
+                    "Farmers Benefited": 67254
+                }
+            },
+            {
+                "name": "ROHTAS",
+                "data": {
+                    "No. of AIs": 82130,
+                    "No. of PDs": 27306,
+                    "No. of Calvings": 11657,
+                    "Farmers Benefited": 70344
+                }
+            },
+            {
+                "name": "DARBHANGA",
+                "data": {
+                    "No. of AIs": 73779,
+                    "No. of PDs": 7940,
+                    "No. of Calvings": 4000,
+                    "Farmers Benefited": 61048
+                }
+            },
+            {
+                "name": "BHOJPUR",
+                "data": {
+                    "No. of AIs": 72131,
+                    "No. of PDs": 23451,
+                    "No. of Calvings": 7986,
+                    "Farmers Benefited": 61187
+                }
+            },
+            {
+                "name": "PASHCHIM CHAMPARAN",
+                "data": {
+                    "No. of AIs": 66524,
+                    "No. of PDs": 35243,
+                    "No. of Calvings": 5993,
+                    "Farmers Benefited": 59685
+                }
+            },
+            {
+                "name": "BUXAR",
+                "data": {
+                    "No. of AIs": 63361,
+                    "No. of PDs": 26331,
+                    "No. of Calvings": 5748,
+                    "Farmers Benefited": 52110
+                }
+            },
+            {
+                "name": "BANKA",
+                "data": {
+                    "No. of AIs": 52978,
+                    "No. of PDs": 10639,
+                    "No. of Calvings": 4780,
+                    "Farmers Benefited": 44620
+                }
+            },
+            {
+                "name": "KAIMUR (BHABUA)",
+                "data": {
+                    "No. of AIs": 50261,
+                    "No. of PDs": 21857,
+                    "No. of Calvings": 7761,
+                    "Farmers Benefited": 40486
+                }
+            },
+            {
+                "name": "PURNIA",
+                "data": {
+                    "No. of AIs": 49218,
+                    "No. of PDs": 20768,
+                    "No. of Calvings": 2428,
+                    "Farmers Benefited": 41800
+                }
+            },
+            {
+                "name": "BHAGALPUR",
+                "data": {
+                    "No. of AIs": 48739,
+                    "No. of PDs": 14490,
+                    "No. of Calvings": 5962,
+                    "Farmers Benefited": 36686
+                }
+            },
+            {
+                "name": "GAYA",
+                "data": {
+                    "No. of AIs": 48352,
+                    "No. of PDs": 24717,
+                    "No. of Calvings": 6075,
+                    "Farmers Benefited": 39293
+                }
+            },
+            {
+                "name": "KATIHAR",
+                "data": {
+                    "No. of AIs": 46921,
+                    "No. of PDs": 15601,
+                    "No. of Calvings": 1325,
+                    "Farmers Benefited": 36630
+                }
+            },
+            {
+                "name": "MADHUBANI",
+                "data": {
+                    "No. of AIs": 39173,
+                    "No. of PDs": 19715,
+                    "No. of Calvings": 3358,
+                    "Farmers Benefited": 28544
+                }
+            },
+            {
+                "name": "LAKHISARAI",
+                "data": {
+                    "No. of AIs": 34550,
+                    "No. of PDs": 6430,
+                    "No. of Calvings": 1524,
+                    "Farmers Benefited": 28109
+                }
+            },
+            {
+                "name": "GOPALGANJ",
+                "data": {
+                    "No. of AIs": 33916,
+                    "No. of PDs": 4250,
+                    "No. of Calvings": 389,
+                    "Farmers Benefited": 26973
+                }
+            },
+            {
+                "name": "ARARIA",
+                "data": {
+                    "No. of AIs": 30184,
+                    "No. of PDs": 13930,
+                    "No. of Calvings": 437,
+                    "Farmers Benefited": 26264
+                }
+            },
+            {
+                "name": "SITAMARHI",
+                "data": {
+                    "No. of AIs": 27723,
+                    "No. of PDs": 2078,
+                    "No. of Calvings": 1345,
+                    "Farmers Benefited": 25682
+                }
+            },
+            {
+                "name": "MUNGER",
+                "data": {
+                    "No. of AIs": 25570,
+                    "No. of PDs": 10133,
+                    "No. of Calvings": 1747,
+                    "Farmers Benefited": 22244
+                }
+            },
+            {
+                "name": "JAMUI",
+                "data": {
+                    "No. of AIs": 21730,
+                    "No. of PDs": 9933,
+                    "No. of Calvings": 2591,
+                    "Farmers Benefited": 20310
+                }
+            },
+            {
+                "name": "ARWAL",
+                "data": {
+                    "No. of AIs": 21393,
+                    "No. of PDs": 9084,
+                    "No. of Calvings": 2906,
+                    "Farmers Benefited": 18848
+                }
+            },
+            {
+                "name": "AURANGABAD",
+                "data": {
+                    "No. of AIs": 19547,
+                    "No. of PDs": 6900,
+                    "No. of Calvings": 1315,
+                    "Farmers Benefited": 14767
+                }
+            },
+            {
+                "name": "NALANDA",
+                "data": {
+                    "No. of AIs": 15892,
+                    "No. of PDs": 2116,
+                    "No. of Calvings": 168,
+                    "Farmers Benefited": 12273
+                }
+            },
+            {
+                "name": "SIWAN",
+                "data": {
+                    "No. of AIs": 14338,
+                    "No. of PDs": 3190,
+                    "No. of Calvings": 503,
+                    "Farmers Benefited": 12106
+                }
+            },
+            {
+                "name": "SHEOHAR",
+                "data": {
+                    "No. of AIs": 13300,
+                    "No. of PDs": 941,
+                    "No. of Calvings": 114,
+                    "Farmers Benefited": 12039
+                }
+            },
+            {
+                "name": "JEHANABAD",
+                "data": {
+                    "No. of AIs": 12755,
+                    "No. of PDs": 4930,
+                    "No. of Calvings": 263,
+                    "Farmers Benefited": 11796
+                }
+            },
+            {
+                "name": "KISHANGANJ",
+                "data": {
+                    "No. of AIs": 11185,
+                    "No. of PDs": 3368,
+                    "No. of Calvings": 322,
+                    "Farmers Benefited": 10470
+                }
+            },
+            {
+                "name": "NAWADA",
+                "data": {
+                    "No. of AIs": 10104,
+                    "No. of PDs": 5149,
+                    "No. of Calvings": 1117,
+                    "Farmers Benefited": 9430
+                }
+            },
+            {
+                "name": "SHEIKHPURA",
+                "data": {
+                    "No. of AIs": 4914,
+                    "No. of PDs": 216,
+                    "No. of Calvings": 4,
+                    "Farmers Benefited": 4185
+                }
+            }
+        ]
+    },
+    "CHHATTISGARH": {
+        "districts": [
+            {
+                "name": "BILASPUR",
+                "data": {
+                    "No. of AIs": 98712,
+                    "No. of PDs": 47416,
+                    "No. of Calvings": 20826,
+                    "Farmers Benefited": 79671
+                }
+            },
+            {
+                "name": "RAIGARH",
+                "data": {
+                    "No. of AIs": 92240,
+                    "No. of PDs": 34955,
+                    "No. of Calvings": 22818,
+                    "Farmers Benefited": 78424
+                }
+            },
+            {
+                "name": "RAIPUR",
+                "data": {
+                    "No. of AIs": 79687,
+                    "No. of PDs": 35980,
+                    "No. of Calvings": 16727,
+                    "Farmers Benefited": 58942
+                }
+            },
+            {
+                "name": "MAHASAMUND",
+                "data": {
+                    "No. of AIs": 67503,
+                    "No. of PDs": 43044,
+                    "No. of Calvings": 17115,
+                    "Farmers Benefited": 56279
+                }
+            },
+            {
+                "name": "JANJGIR-CHAMPA",
+                "data": {
+                    "No. of AIs": 48277,
+                    "No. of PDs": 19666,
+                    "No. of Calvings": 4677,
+                    "Farmers Benefited": 40148
+                }
+            },
+            {
+                "name": "BALOD",
+                "data": {
+                    "No. of AIs": 44690,
+                    "No. of PDs": 27121,
+                    "No. of Calvings": 12279,
+                    "Farmers Benefited": 38087
+                }
+            },
+            {
+                "name": "MUNGELI",
+                "data": {
+                    "No. of AIs": 44541,
+                    "No. of PDs": 15859,
+                    "No. of Calvings": 9835,
+                    "Farmers Benefited": 39264
+                }
+            },
+            {
+                "name": "DHAMTARI",
+                "data": {
+                    "No. of AIs": 44154,
+                    "No. of PDs": 30916,
+                    "No. of Calvings": 17305,
+                    "Farmers Benefited": 39237
+                }
+            },
+            {
+                "name": "JASHPUR",
+                "data": {
+                    "No. of AIs": 44012,
+                    "No. of PDs": 23206,
+                    "No. of Calvings": 9854,
+                    "Farmers Benefited": 38807
+                }
+            },
+            {
+                "name": "KORBA",
+                "data": {
+                    "No. of AIs": 42615,
+                    "No. of PDs": 21005,
+                    "No. of Calvings": 4941,
+                    "Farmers Benefited": 36258
+                }
+            },
+            {
+                "name": "DURG",
+                "data": {
+                    "No. of AIs": 41717,
+                    "No. of PDs": 8868,
+                    "No. of Calvings": 3943,
+                    "Farmers Benefited": 29217
+                }
+            },
+            {
+                "name": "SURGUJA",
+                "data": {
+                    "No. of AIs": 40803,
+                    "No. of PDs": 12242,
+                    "No. of Calvings": 3854,
+                    "Farmers Benefited": 35487
+                }
+            },
+            {
+                "name": "BALODA BAZAR",
+                "data": {
+                    "No. of AIs": 38455,
+                    "No. of PDs": 10453,
+                    "No. of Calvings": 5629,
+                    "Farmers Benefited": 32846
+                }
+            },
+            {
+                "name": "KABIRDHAM",
+                "data": {
+                    "No. of AIs": 37066,
+                    "No. of PDs": 23132,
+                    "No. of Calvings": 8176,
+                    "Farmers Benefited": 32325
+                }
+            },
+            {
+                "name": "SURAJPUR",
+                "data": {
+                    "No. of AIs": 36462,
+                    "No. of PDs": 11855,
+                    "No. of Calvings": 6163,
+                    "Farmers Benefited": 31923
+                }
+            },
+            {
+                "name": "KANKER",
+                "data": {
+                    "No. of AIs": 34859,
+                    "No. of PDs": 13257,
+                    "No. of Calvings": 7443,
+                    "Farmers Benefited": 30585
+                }
+            },
+            {
+                "name": "RAJNANDGAON",
+                "data": {
+                    "No. of AIs": 31412,
+                    "No. of PDs": 13069,
+                    "No. of Calvings": 5780,
+                    "Farmers Benefited": 26179
+                }
+            },
+            {
+                "name": "BEMETARA",
+                "data": {
+                    "No. of AIs": 29622,
+                    "No. of PDs": 14445,
+                    "No. of Calvings": 7217,
+                    "Farmers Benefited": 25514
+                }
+            },
+            {
+                "name": "KONDAGAON",
+                "data": {
+                    "No. of AIs": 28663,
+                    "No. of PDs": 18632,
+                    "No. of Calvings": 5201,
+                    "Farmers Benefited": 24341
+                }
+            },
+            {
+                "name": "BALRAMPUR",
+                "data": {
+                    "No. of AIs": 27659,
+                    "No. of PDs": 14240,
+                    "No. of Calvings": 7496,
+                    "Farmers Benefited": 25073
+                }
+            },
+            {
+                "name": "GARIYABAND",
+                "data": {
+                    "No. of AIs": 25157,
+                    "No. of PDs": 7879,
+                    "No. of Calvings": 5381,
+                    "Farmers Benefited": 22498
+                }
+            },
+            {
+                "name": "BASTAR",
+                "data": {
+                    "No. of AIs": 21991,
+                    "No. of PDs": 12302,
+                    "No. of Calvings": 5262,
+                    "Farmers Benefited": 17737
+                }
+            },
+            {
+                "name": "KOREA",
+                "data": {
+                    "No. of AIs": 21684,
+                    "No. of PDs": 9026,
+                    "No. of Calvings": 3128,
+                    "Farmers Benefited": 18784
+                }
+            },
+            {
+                "name": "SUKMA",
+                "data": {
+                    "No. of AIs": 17402,
+                    "No. of PDs": 13901,
+                    "No. of Calvings": 2278,
+                    "Farmers Benefited": 13330
+                }
+            },
+            {
+                "name": "Gaurella Pendra Marwahi",
+                "data": {
+                    "No. of AIs": 14920,
+                    "No. of PDs": 5037,
+                    "No. of Calvings": 1207,
+                    "Farmers Benefited": 12668
+                }
+            },
+            {
+                "name": "DANTEWADA",
+                "data": {
+                    "No. of AIs": 7411,
+                    "No. of PDs": 2567,
+                    "No. of Calvings": 850,
+                    "Farmers Benefited": 4314
+                }
+            },
+            {
+                "name": "BIJAPUR",
+                "data": {
+                    "No. of AIs": 5077,
+                    "No. of PDs": 2653,
+                    "No. of Calvings": 272,
+                    "Farmers Benefited": 4083
+                }
+            },
+            {
+                "name": "NARAYANPUR",
+                "data": {
+                    "No. of AIs": 1452,
+                    "No. of PDs": 125,
+                    "No. of Calvings": 39,
+                    "Farmers Benefited": 1248
+                }
+            }
+        ]
+    },
+    "GOA": {
+        "districts": [
+            {
+                "name": "NORTH GOA",
+                "data": {
+                    "No. of AIs": 5966,
+                    "No. of PDs": 333,
+                    "No. of Calvings": 32,
+                    "Farmers Benefited": 2856
+                }
+            },
+            {
+                "name": "SOUTH GOA",
+                "data": {
+                    "No. of AIs": 3780,
+                    "No. of PDs": 1088,
+                    "No. of Calvings": 223,
+                    "Farmers Benefited": 2379
+                }
+            }
+        ]
+    },
+    "GUJARAT": {
+        "districts": [
+            {
+                "name": "DOHAD",
+                "data": {
+                    "No. of AIs": 361751,
+                    "No. of PDs": 133664,
+                    "No. of Calvings": 108488,
+                    "Farmers Benefited": 206643
+                }
+            },
+            {
+                "name": "PATAN",
+                "data": {
+                    "No. of AIs": 348691,
+                    "No. of PDs": 219171,
+                    "No. of Calvings": 19732,
+                    "Farmers Benefited": 270564
+                }
+            },
+            {
+                "name": "BHAVNAGAR",
+                "data": {
+                    "No. of AIs": 261965,
+                    "No. of PDs": 143333,
+                    "No. of Calvings": 14790,
+                    "Farmers Benefited": 188505
+                }
+            },
+            {
+                "name": "PANCH MAHALS",
+                "data": {
+                    "No. of AIs": 217488,
+                    "No. of PDs": 70872,
+                    "No. of Calvings": 28151,
+                    "Farmers Benefited": 169696
+                }
+            },
+            {
+                "name": "AHMADABAD",
+                "data": {
+                    "No. of AIs": 204142,
+                    "No. of PDs": 135574,
+                    "No. of Calvings": 31378,
+                    "Farmers Benefited": 157324
+                }
+            },
+            {
+                "name": "RAJKOT",
+                "data": {
+                    "No. of AIs": 167904,
+                    "No. of PDs": 106025,
+                    "No. of Calvings": 14376,
+                    "Farmers Benefited": 134290
+                }
+            },
+            {
+                "name": "JUNAGADH",
+                "data": {
+                    "No. of AIs": 167317,
+                    "No. of PDs": 64122,
+                    "No. of Calvings": 6754,
+                    "Farmers Benefited": 131849
+                }
+            },
+            {
+                "name": "SURAT",
+                "data": {
+                    "No. of AIs": 149143,
+                    "No. of PDs": 86027,
+                    "No. of Calvings": 26907,
+                    "Farmers Benefited": 102488
+                }
+            },
+            {
+                "name": "VADODARA",
+                "data": {
+                    "No. of AIs": 136130,
+                    "No. of PDs": 87526,
+                    "No. of Calvings": 30348,
+                    "Farmers Benefited": 105723
+                }
+            },
+            {
+                "name": "NARMADA",
+                "data": {
+                    "No. of AIs": 105033,
+                    "No. of PDs": 61494,
+                    "No. of Calvings": 41215,
+                    "Farmers Benefited": 84895
+                }
+            },
+            {
+                "name": "CHHOTAUDEPUR",
+                "data": {
+                    "No. of AIs": 95991,
+                    "No. of PDs": 32933,
+                    "No. of Calvings": 1555,
+                    "Farmers Benefited": 81292
+                }
+            },
+            {
+                "name": "GIR SOMNATH",
+                "data": {
+                    "No. of AIs": 84238,
+                    "No. of PDs": 47322,
+                    "No. of Calvings": 9387,
+                    "Farmers Benefited": 71989
+                }
+            },
+            {
+                "name": "AMRELI",
+                "data": {
+                    "No. of AIs": 73615,
+                    "No. of PDs": 41191,
+                    "No. of Calvings": 6184,
+                    "Farmers Benefited": 59363
+                }
+            },
+            {
+                "name": "BOTAD",
+                "data": {
+                    "No. of AIs": 64387,
+                    "No. of PDs": 32802,
+                    "No. of Calvings": 6375,
+                    "Farmers Benefited": 48703
+                }
+            },
+            {
+                "name": "MORBI",
+                "data": {
+                    "No. of AIs": 60306,
+                    "No. of PDs": 43335,
+                    "No. of Calvings": 3157,
+                    "Farmers Benefited": 48913
+                }
+            },
+            {
+                "name": "KACHCHH",
+                "data": {
+                    "No. of AIs": 57130,
+                    "No. of PDs": 33839,
+                    "No. of Calvings": 5769,
+                    "Farmers Benefited": 41867
+                }
+            },
+            {
+                "name": "BHARUCH",
+                "data": {
+                    "No. of AIs": 56636,
+                    "No. of PDs": 21960,
+                    "No. of Calvings": 1805,
+                    "Farmers Benefited": 42169
+                }
+            },
+            {
+                "name": "JAMNAGAR",
+                "data": {
+                    "No. of AIs": 51323,
+                    "No. of PDs": 23404,
+                    "No. of Calvings": 3833,
+                    "Farmers Benefited": 41643
+                }
+            },
+            {
+                "name": "SURENDRANAGAR",
+                "data": {
+                    "No. of AIs": 50646,
+                    "No. of PDs": 25012,
+                    "No. of Calvings": 1121,
+                    "Farmers Benefited": 41179
+                }
+            },
+            {
+                "name": "PORBANDAR",
+                "data": {
+                    "No. of AIs": 48032,
+                    "No. of PDs": 17138,
+                    "No. of Calvings": 1089,
+                    "Farmers Benefited": 34485
+                }
+            },
+            {
+                "name": "DEVBHUMI DWARKA",
+                "data": {
+                    "No. of AIs": 46624,
+                    "No. of PDs": 17639,
+                    "No. of Calvings": 3717,
+                    "Farmers Benefited": 31563
+                }
+            }
+        ]
+    },
+    "HARYANA": {
+        "districts": [
+            {
+                "name": "SONIPAT",
+                "data": {
+                    "No. of AIs": 34856,
+                    "No. of PDs": 12838,
+                    "No. of Calvings": 3546,
+                    "Farmers Benefited": 23164
+                }
+            },
+            {
+                "name": "BHIWANI",
+                "data": {
+                    "No. of AIs": 18090,
+                    "No. of PDs": 11799,
+                    "No. of Calvings": 2834,
+                    "Farmers Benefited": 13457
+                }
+            },
+            {
+                "name": "CHARKI DADRI",
+                "data": {
+                    "No. of AIs": 17829,
+                    "No. of PDs": 8363,
+                    "No. of Calvings": 2698,
+                    "Farmers Benefited": 11681
+                }
+            },
+            {
+                "name": "PANCHKULA",
+                "data": {
+                    "No. of AIs": 4275,
+                    "No. of PDs": 655,
+                    "No. of Calvings": 11,
+                    "Farmers Benefited": 2069
+                }
+            },
+            {
+                "name": "PALWAL",
+                "data": {
+                    "No. of AIs": 790,
+                    "No. of PDs": 524,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 366
+                }
+            }
+        ]
+    },
+    "HIMACHAL PRADESH": {
+        "districts": [
+            {
+                "name": "KANGRA",
+                "data": {
+                    "No. of AIs": 287540,
+                    "No. of PDs": 150237,
+                    "No. of Calvings": 38628,
+                    "Farmers Benefited": 243234
+                }
+            },
+            {
+                "name": "MANDI",
+                "data": {
+                    "No. of AIs": 284383,
+                    "No. of PDs": 138721,
+                    "No. of Calvings": 33051,
+                    "Farmers Benefited": 259278
+                }
+            },
+            {
+                "name": "SIRMAUR",
+                "data": {
+                    "No. of AIs": 141541,
+                    "No. of PDs": 91526,
+                    "No. of Calvings": 25401,
+                    "Farmers Benefited": 123335
+                }
+            },
+            {
+                "name": "SOLAN",
+                "data": {
+                    "No. of AIs": 120731,
+                    "No. of PDs": 68044,
+                    "No. of Calvings": 13288,
+                    "Farmers Benefited": 108529
+                }
+            },
+            {
+                "name": "UNA",
+                "data": {
+                    "No. of AIs": 106310,
+                    "No. of PDs": 46346,
+                    "No. of Calvings": 12765,
+                    "Farmers Benefited": 86064
+                }
+            },
+            {
+                "name": "SHIMLA",
+                "data": {
+                    "No. of AIs": 105190,
+                    "No. of PDs": 49372,
+                    "No. of Calvings": 9677,
+                    "Farmers Benefited": 97198
+                }
+            },
+            {
+                "name": "BILASPUR",
+                "data": {
+                    "No. of AIs": 88225,
+                    "No. of PDs": 39908,
+                    "No. of Calvings": 10957,
+                    "Farmers Benefited": 77947
+                }
+            },
+            {
+                "name": "HAMIRPUR",
+                "data": {
+                    "No. of AIs": 70604,
+                    "No. of PDs": 27538,
+                    "No. of Calvings": 4123,
+                    "Farmers Benefited": 62294
+                }
+            },
+            {
+                "name": "KULLU",
+                "data": {
+                    "No. of AIs": 69032,
+                    "No. of PDs": 29319,
+                    "No. of Calvings": 9667,
+                    "Farmers Benefited": 63681
+                }
+            },
+            {
+                "name": "CHAMBA",
+                "data": {
+                    "No. of AIs": 38664,
+                    "No. of PDs": 19846,
+                    "No. of Calvings": 2197,
+                    "Farmers Benefited": 35464
+                }
+            },
+            {
+                "name": "KINNAUR",
+                "data": {
+                    "No. of AIs": 10015,
+                    "No. of PDs": 5676,
+                    "No. of Calvings": 2049,
+                    "Farmers Benefited": 9122
+                }
+            },
+            {
+                "name": "LAHUL AND SPITI",
+                "data": {
+                    "No. of AIs": 2839,
+                    "No. of PDs": 627,
+                    "No. of Calvings": 159,
+                    "Farmers Benefited": 2620
+                }
+            }
+        ]
+    },
+    "JAMMU AND KASHMIR": {
+        "districts": [
+            {
+                "name": "JAMMU",
+                "data": {
+                    "No. of AIs": 194486,
+                    "No. of PDs": 41400,
+                    "No. of Calvings": 4201,
+                    "Farmers Benefited": 154257
+                }
+            },
+            {
+                "name": "PULWAMA",
+                "data": {
+                    "No. of AIs": 188896,
+                    "No. of PDs": 57868,
+                    "No. of Calvings": 24962,
+                    "Farmers Benefited": 136607
+                }
+            },
+            {
+                "name": "ANANTNAG",
+                "data": {
+                    "No. of AIs": 181554,
+                    "No. of PDs": 64197,
+                    "No. of Calvings": 23783,
+                    "Farmers Benefited": 152308
+                }
+            },
+            {
+                "name": "Budgam",
+                "data": {
+                    "No. of AIs": 175872,
+                    "No. of PDs": 60785,
+                    "No. of Calvings": 19532,
+                    "Farmers Benefited": 130688
+                }
+            },
+            {
+                "name": "BARAMULLA",
+                "data": {
+                    "No. of AIs": 145540,
+                    "No. of PDs": 51340,
+                    "No. of Calvings": 18710,
+                    "Farmers Benefited": 126176
+                }
+            },
+            {
+                "name": "KULGAM",
+                "data": {
+                    "No. of AIs": 111010,
+                    "No. of PDs": 45605,
+                    "No. of Calvings": 10070,
+                    "Farmers Benefited": 92937
+                }
+            },
+            {
+                "name": "GANDERBAL",
+                "data": {
+                    "No. of AIs": 88355,
+                    "No. of PDs": 27069,
+                    "No. of Calvings": 11067,
+                    "Farmers Benefited": 68366
+                }
+            },
+            {
+                "name": "POONCH",
+                "data": {
+                    "No. of AIs": 86734,
+                    "No. of PDs": 12748,
+                    "No. of Calvings": 615,
+                    "Farmers Benefited": 60716
+                }
+            },
+            {
+                "name": "KATHUA",
+                "data": {
+                    "No. of AIs": 77328,
+                    "No. of PDs": 18231,
+                    "No. of Calvings": 3975,
+                    "Farmers Benefited": 65155
+                }
+            },
+            {
+                "name": "UDHAMPUR",
+                "data": {
+                    "No. of AIs": 69270,
+                    "No. of PDs": 25621,
+                    "No. of Calvings": 2520,
+                    "Farmers Benefited": 61274
+                }
+            },
+            {
+                "name": "SAMBA",
+                "data": {
+                    "No. of AIs": 67510,
+                    "No. of PDs": 24689,
+                    "No. of Calvings": 4885,
+                    "Farmers Benefited": 56638
+                }
+            },
+            {
+                "name": "KUPWARA",
+                "data": {
+                    "No. of AIs": 67317,
+                    "No. of PDs": 23369,
+                    "No. of Calvings": 5762,
+                    "Farmers Benefited": 59932
+                }
+            },
+            {
+                "name": "RAJOURI",
+                "data": {
+                    "No. of AIs": 65273,
+                    "No. of PDs": 9930,
+                    "No. of Calvings": 1362,
+                    "Farmers Benefited": 54878
+                }
+            },
+            {
+                "name": "SHOPIAN",
+                "data": {
+                    "No. of AIs": 63087,
+                    "No. of PDs": 25669,
+                    "No. of Calvings": 9266,
+                    "Farmers Benefited": 51519
+                }
+            },
+            {
+                "name": "SRINAGAR",
+                "data": {
+                    "No. of AIs": 57776,
+                    "No. of PDs": 21287,
+                    "No. of Calvings": 8812,
+                    "Farmers Benefited": 44155
+                }
+            },
+            {
+                "name": "BANDIPORA",
+                "data": {
+                    "No. of AIs": 57525,
+                    "No. of PDs": 17715,
+                    "No. of Calvings": 6749,
+                    "Farmers Benefited": 45901
+                }
+            },
+            {
+                "name": "DODA",
+                "data": {
+                    "No. of AIs": 54233,
+                    "No. of PDs": 21090,
+                    "No. of Calvings": 3545,
+                    "Farmers Benefited": 47819
+                }
+            },
+            {
+                "name": "REASI",
+                "data": {
+                    "No. of AIs": 30011,
+                    "No. of PDs": 11096,
+                    "No. of Calvings": 1573,
+                    "Farmers Benefited": 26058
+                }
+            },
+            {
+                "name": "RAMBAN",
+                "data": {
+                    "No. of AIs": 29399,
+                    "No. of PDs": 13044,
+                    "No. of Calvings": 2131,
+                    "Farmers Benefited": 24697
+                }
+            },
+            {
+                "name": "KISHTWAR",
+                "data": {
+                    "No. of AIs": 27763,
+                    "No. of PDs": 6356,
+                    "No. of Calvings": 2125,
+                    "Farmers Benefited": 22204
+                }
+            }
+        ]
+    },
+    "JHARKHAND": {
+        "districts": [
+            {
+                "name": "DEOGHAR",
+                "data": {
+                    "No. of AIs": 184095,
+                    "No. of PDs": 116240,
+                    "No. of Calvings": 27968,
+                    "Farmers Benefited": 122982
+                }
+            },
+            {
+                "name": "HAZARIBAGH",
+                "data": {
+                    "No. of AIs": 171098,
+                    "No. of PDs": 105943,
+                    "No. of Calvings": 25476,
+                    "Farmers Benefited": 140170
+                }
+            },
+            {
+                "name": "GIRIDIH",
+                "data": {
+                    "No. of AIs": 129297,
+                    "No. of PDs": 79763,
+                    "No. of Calvings": 22343,
+                    "Farmers Benefited": 111571
+                }
+            },
+            {
+                "name": "PALAMU",
+                "data": {
+                    "No. of AIs": 128925,
+                    "No. of PDs": 58586,
+                    "No. of Calvings": 10011,
+                    "Farmers Benefited": 115340
+                }
+            },
+            {
+                "name": "RANCHI",
+                "data": {
+                    "No. of AIs": 108704,
+                    "No. of PDs": 49568,
+                    "No. of Calvings": 6047,
+                    "Farmers Benefited": 85385
+                }
+            },
+            {
+                "name": "DHANBAD",
+                "data": {
+                    "No. of AIs": 106234,
+                    "No. of PDs": 67243,
+                    "No. of Calvings": 21145,
+                    "Farmers Benefited": 82975
+                }
+            },
+            {
+                "name": "GARHWA",
+                "data": {
+                    "No. of AIs": 106076,
+                    "No. of PDs": 63854,
+                    "No. of Calvings": 7256,
+                    "Farmers Benefited": 97890
+                }
+            },
+            {
+                "name": "BOKARO",
+                "data": {
+                    "No. of AIs": 101073,
+                    "No. of PDs": 74534,
+                    "No. of Calvings": 29461,
+                    "Farmers Benefited": 81461
+                }
+            },
+            {
+                "name": "DUMKA",
+                "data": {
+                    "No. of AIs": 88894,
+                    "No. of PDs": 61518,
+                    "No. of Calvings": 24850,
+                    "Farmers Benefited": 73048
+                }
+            },
+            {
+                "name": "CHATRA",
+                "data": {
+                    "No. of AIs": 72037,
+                    "No. of PDs": 48944,
+                    "No. of Calvings": 20473,
+                    "Farmers Benefited": 64625
+                }
+            },
+            {
+                "name": "EAST SINGHBUM",
+                "data": {
+                    "No. of AIs": 60639,
+                    "No. of PDs": 36224,
+                    "No. of Calvings": 8703,
+                    "Farmers Benefited": 42419
+                }
+            },
+            {
+                "name": "GODDA",
+                "data": {
+                    "No. of AIs": 56377,
+                    "No. of PDs": 33773,
+                    "No. of Calvings": 7973,
+                    "Farmers Benefited": 48799
+                }
+            },
+            {
+                "name": "LOHARDAGA",
+                "data": {
+                    "No. of AIs": 46836,
+                    "No. of PDs": 27639,
+                    "No. of Calvings": 3545,
+                    "Farmers Benefited": 40194
+                }
+            },
+            {
+                "name": "KODERMA",
+                "data": {
+                    "No. of AIs": 44194,
+                    "No. of PDs": 23744,
+                    "No. of Calvings": 8163,
+                    "Farmers Benefited": 38952
+                }
+            },
+            {
+                "name": "SAHEBGANJ",
+                "data": {
+                    "No. of AIs": 40196,
+                    "No. of PDs": 23505,
+                    "No. of Calvings": 5227,
+                    "Farmers Benefited": 34258
+                }
+            },
+            {
+                "name": "LATEHAR",
+                "data": {
+                    "No. of AIs": 36238,
+                    "No. of PDs": 23779,
+                    "No. of Calvings": 7472,
+                    "Farmers Benefited": 32592
+                }
+            },
+            {
+                "name": "JAMTARA",
+                "data": {
+                    "No. of AIs": 35159,
+                    "No. of PDs": 20986,
+                    "No. of Calvings": 3272,
+                    "Farmers Benefited": 29911
+                }
+            },
+            {
+                "name": "GUMLA",
+                "data": {
+                    "No. of AIs": 19060,
+                    "No. of PDs": 10673,
+                    "No. of Calvings": 1690,
+                    "Farmers Benefited": 16823
+                }
+            },
+            {
+                "name": "RAMGARH",
+                "data": {
+                    "No. of AIs": 19020,
+                    "No. of PDs": 12832,
+                    "No. of Calvings": 1230,
+                    "Farmers Benefited": 16925
+                }
+            },
+            {
+                "name": "WEST SINGHBHUM",
+                "data": {
+                    "No. of AIs": 18949,
+                    "No. of PDs": 11827,
+                    "No. of Calvings": 2731,
+                    "Farmers Benefited": 14897
+                }
+            },
+            {
+                "name": "SARAIKELA KHARSAWAN",
+                "data": {
+                    "No. of AIs": 16661,
+                    "No. of PDs": 8887,
+                    "No. of Calvings": 3009,
+                    "Farmers Benefited": 14475
+                }
+            },
+            {
+                "name": "KHUNTI",
+                "data": {
+                    "No. of AIs": 16095,
+                    "No. of PDs": 7560,
+                    "No. of Calvings": 2509,
+                    "Farmers Benefited": 13919
+                }
+            },
+            {
+                "name": "SIMDEGA",
+                "data": {
+                    "No. of AIs": 13830,
+                    "No. of PDs": 6911,
+                    "No. of Calvings": 1562,
+                    "Farmers Benefited": 11442
+                }
+            },
+            {
+                "name": "PAKUR",
+                "data": {
+                    "No. of AIs": 13204,
+                    "No. of PDs": 4814,
+                    "No. of Calvings": 1542,
+                    "Farmers Benefited": 11187
+                }
+            }
+        ]
+    },
+    "KARNATAKA": {
+        "districts": [
+            {
+                "name": "BELAGAVI",
+                "data": {
+                    "No. of AIs": 1078772,
+                    "No. of PDs": 714119,
+                    "No. of Calvings": 150751,
+                    "Farmers Benefited": 820087
+                }
+            },
+            {
+                "name": "SHIVAMOGGA",
+                "data": {
+                    "No. of AIs": 432790,
+                    "No. of PDs": 218534,
+                    "No. of Calvings": 43310,
+                    "Farmers Benefited": 342095
+                }
+            },
+            {
+                "name": "DAVANGERE",
+                "data": {
+                    "No. of AIs": 404777,
+                    "No. of PDs": 159048,
+                    "No. of Calvings": 33411,
+                    "Farmers Benefited": 321796
+                }
+            },
+            {
+                "name": "BAGALKOTE",
+                "data": {
+                    "No. of AIs": 308549,
+                    "No. of PDs": 202986,
+                    "No. of Calvings": 47420,
+                    "Farmers Benefited": 248657
+                }
+            },
+            {
+                "name": "CHIKKAMAGALURU",
+                "data": {
+                    "No. of AIs": 297537,
+                    "No. of PDs": 135293,
+                    "No. of Calvings": 20126,
+                    "Farmers Benefited": 231693
+                }
+            },
+            {
+                "name": "CHITRADURGA",
+                "data": {
+                    "No. of AIs": 288277,
+                    "No. of PDs": 150570,
+                    "No. of Calvings": 28024,
+                    "Farmers Benefited": 228519
+                }
+            },
+            {
+                "name": "DHARWAD",
+                "data": {
+                    "No. of AIs": 207488,
+                    "No. of PDs": 101538,
+                    "No. of Calvings": 18324,
+                    "Farmers Benefited": 171824
+                }
+            },
+            {
+                "name": "UTTARA KANNADA",
+                "data": {
+                    "No. of AIs": 136354,
+                    "No. of PDs": 88979,
+                    "No. of Calvings": 18693,
+                    "Farmers Benefited": 118664
+                }
+            },
+            {
+                "name": "VIJAYAPURA",
+                "data": {
+                    "No. of AIs": 128942,
+                    "No. of PDs": 70739,
+                    "No. of Calvings": 10823,
+                    "Farmers Benefited": 107828
+                }
+            },
+            {
+                "name": "KOPPAL",
+                "data": {
+                    "No. of AIs": 121927,
+                    "No. of PDs": 66076,
+                    "No. of Calvings": 11279,
+                    "Farmers Benefited": 97336
+                }
+            },
+            {
+                "name": "BALLARI",
+                "data": {
+                    "No. of AIs": 89285,
+                    "No. of PDs": 64785,
+                    "No. of Calvings": 12419,
+                    "Farmers Benefited": 73203
+                }
+            },
+            {
+                "name": "KALABURAGI",
+                "data": {
+                    "No. of AIs": 82994,
+                    "No. of PDs": 42524,
+                    "No. of Calvings": 5852,
+                    "Farmers Benefited": 73213
+                }
+            },
+            {
+                "name": "BIDAR",
+                "data": {
+                    "No. of AIs": 82279,
+                    "No. of PDs": 31896,
+                    "No. of Calvings": 6524,
+                    "Farmers Benefited": 68646
+                }
+            },
+            {
+                "name": "RAICHUR",
+                "data": {
+                    "No. of AIs": 79391,
+                    "No. of PDs": 39654,
+                    "No. of Calvings": 4846,
+                    "Farmers Benefited": 65567
+                }
+            },
+            {
+                "name": "GADAG",
+                "data": {
+                    "No. of AIs": 65359,
+                    "No. of PDs": 28171,
+                    "No. of Calvings": 4940,
+                    "Farmers Benefited": 53317
+                }
+            },
+            {
+                "name": "YADGIR",
+                "data": {
+                    "No. of AIs": 40875,
+                    "No. of PDs": 16050,
+                    "No. of Calvings": 1507,
+                    "Farmers Benefited": 35926
+                }
+            },
+            {
+                "name": "KODAGU",
+                "data": {
+                    "No. of AIs": 34819,
+                    "No. of PDs": 21405,
+                    "No. of Calvings": 6292,
+                    "Farmers Benefited": 29249
+                }
+            }
+        ]
+    },
+    "LADAKH": {
+        "districts": [
+            {
+                "name": "KARGIL",
+                "data": {
+                    "No. of AIs": 2239,
+                    "No. of PDs": 1447,
+                    "No. of Calvings": 521,
+                    "Farmers Benefited": 2122
+                }
+            },
+            {
+                "name": "LEH LADAKH",
+                "data": {
+                    "No. of AIs": 2009,
+                    "No. of PDs": 1069,
+                    "No. of Calvings": 503,
+                    "Farmers Benefited": 1831
+                }
+            }
+        ]
+    },
+    "MADHYA PRADESH": {
+        "districts": [
+            {
+                "name": "SEHORE",
+                "data": {
+                    "No. of AIs": 160380,
+                    "No. of PDs": 77783,
+                    "No. of Calvings": 18395,
+                    "Farmers Benefited": 125842
+                }
+            },
+            {
+                "name": "MANDSAUR",
+                "data": {
+                    "No. of AIs": 132996,
+                    "No. of PDs": 100407,
+                    "No. of Calvings": 35992,
+                    "Farmers Benefited": 103666
+                }
+            },
+            {
+                "name": "MORENA",
+                "data": {
+                    "No. of AIs": 118742,
+                    "No. of PDs": 79763,
+                    "No. of Calvings": 25184,
+                    "Farmers Benefited": 81517
+                }
+            },
+            {
+                "name": "NARSINGHPUR",
+                "data": {
+                    "No. of AIs": 111553,
+                    "No. of PDs": 72757,
+                    "No. of Calvings": 28219,
+                    "Farmers Benefited": 89570
+                }
+            },
+            {
+                "name": "SATNA",
+                "data": {
+                    "No. of AIs": 108018,
+                    "No. of PDs": 62929,
+                    "No. of Calvings": 24644,
+                    "Farmers Benefited": 78583
+                }
+            },
+            {
+                "name": "REWA",
+                "data": {
+                    "No. of AIs": 105328,
+                    "No. of PDs": 75255,
+                    "No. of Calvings": 28465,
+                    "Farmers Benefited": 85577
+                }
+            },
+            {
+                "name": "DHAR",
+                "data": {
+                    "No. of AIs": 103971,
+                    "No. of PDs": 61062,
+                    "No. of Calvings": 12717,
+                    "Farmers Benefited": 81818
+                }
+            },
+            {
+                "name": "UJJAIN",
+                "data": {
+                    "No. of AIs": 101118,
+                    "No. of PDs": 64189,
+                    "No. of Calvings": 16399,
+                    "Farmers Benefited": 71300
+                }
+            },
+            {
+                "name": "BHIND",
+                "data": {
+                    "No. of AIs": 99038,
+                    "No. of PDs": 51386,
+                    "No. of Calvings": 11758,
+                    "Farmers Benefited": 77202
+                }
+            },
+            {
+                "name": "INDORE",
+                "data": {
+                    "No. of AIs": 97229,
+                    "No. of PDs": 58019,
+                    "No. of Calvings": 11005,
+                    "Farmers Benefited": 73332
+                }
+            },
+            {
+                "name": "BALAGHAT",
+                "data": {
+                    "No. of AIs": 94937,
+                    "No. of PDs": 76516,
+                    "No. of Calvings": 26773,
+                    "Farmers Benefited": 83477
+                }
+            },
+            {
+                "name": "NARMADAPURAM",
+                "data": {
+                    "No. of AIs": 90019,
+                    "No. of PDs": 52290,
+                    "No. of Calvings": 15995,
+                    "Farmers Benefited": 76627
+                }
+            },
+            {
+                "name": "SAGAR",
+                "data": {
+                    "No. of AIs": 87847,
+                    "No. of PDs": 49834,
+                    "No. of Calvings": 15136,
+                    "Farmers Benefited": 73819
+                }
+            },
+            {
+                "name": "CHHINDWARA",
+                "data": {
+                    "No. of AIs": 87279,
+                    "No. of PDs": 54100,
+                    "No. of Calvings": 13636,
+                    "Farmers Benefited": 68212
+                }
+            },
+            {
+                "name": "BETUL",
+                "data": {
+                    "No. of AIs": 84794,
+                    "No. of PDs": 46178,
+                    "No. of Calvings": 19897,
+                    "Farmers Benefited": 72654
+                }
+            },
+            {
+                "name": "RATLAM",
+                "data": {
+                    "No. of AIs": 79261,
+                    "No. of PDs": 56406,
+                    "No. of Calvings": 25612,
+                    "Farmers Benefited": 64448
+                }
+            },
+            {
+                "name": "SEONI",
+                "data": {
+                    "No. of AIs": 76558,
+                    "No. of PDs": 33466,
+                    "No. of Calvings": 11748,
+                    "Farmers Benefited": 64560
+                }
+            },
+            {
+                "name": "JABALPUR",
+                "data": {
+                    "No. of AIs": 70952,
+                    "No. of PDs": 49815,
+                    "No. of Calvings": 13706,
+                    "Farmers Benefited": 59159
+                }
+            },
+            {
+                "name": "RAISEN",
+                "data": {
+                    "No. of AIs": 70441,
+                    "No. of PDs": 25862,
+                    "No. of Calvings": 3373,
+                    "Farmers Benefited": 49831
+                }
+            },
+            {
+                "name": "DEWAS",
+                "data": {
+                    "No. of AIs": 69834,
+                    "No. of PDs": 47258,
+                    "No. of Calvings": 19111,
+                    "Farmers Benefited": 56026
+                }
+            },
+            {
+                "name": "NEEMUCH",
+                "data": {
+                    "No. of AIs": 66334,
+                    "No. of PDs": 27673,
+                    "No. of Calvings": 7316,
+                    "Farmers Benefited": 55126
+                }
+            },
+            {
+                "name": "BARWANI",
+                "data": {
+                    "No. of AIs": 65352,
+                    "No. of PDs": 47081,
+                    "No. of Calvings": 15155,
+                    "Farmers Benefited": 53602
+                }
+            },
+            {
+                "name": "SHIVPURI",
+                "data": {
+                    "No. of AIs": 62811,
+                    "No. of PDs": 24735,
+                    "No. of Calvings": 8935,
+                    "Farmers Benefited": 49037
+                }
+            },
+            {
+                "name": "SIDHI",
+                "data": {
+                    "No. of AIs": 60123,
+                    "No. of PDs": 32490,
+                    "No. of Calvings": 10622,
+                    "Farmers Benefited": 51253
+                }
+            },
+            {
+                "name": "MANDLA",
+                "data": {
+                    "No. of AIs": 59732,
+                    "No. of PDs": 42466,
+                    "No. of Calvings": 11245,
+                    "Farmers Benefited": 51688
+                }
+            },
+            {
+                "name": "HARDA",
+                "data": {
+                    "No. of AIs": 57337,
+                    "No. of PDs": 35836,
+                    "No. of Calvings": 12105,
+                    "Farmers Benefited": 48883
+                }
+            },
+            {
+                "name": "SHAJAPUR",
+                "data": {
+                    "No. of AIs": 54624,
+                    "No. of PDs": 35413,
+                    "No. of Calvings": 11550,
+                    "Farmers Benefited": 45323
+                }
+            },
+            {
+                "name": "GUNA",
+                "data": {
+                    "No. of AIs": 52571,
+                    "No. of PDs": 25703,
+                    "No. of Calvings": 11305,
+                    "Farmers Benefited": 33707
+                }
+            },
+            {
+                "name": "JHABUA",
+                "data": {
+                    "No. of AIs": 50805,
+                    "No. of PDs": 33779,
+                    "No. of Calvings": 8523,
+                    "Farmers Benefited": 45466
+                }
+            },
+            {
+                "name": "CHHATARPUR",
+                "data": {
+                    "No. of AIs": 50661,
+                    "No. of PDs": 31244,
+                    "No. of Calvings": 7970,
+                    "Farmers Benefited": 41251
+                }
+            },
+            {
+                "name": "GWALIOR",
+                "data": {
+                    "No. of AIs": 49531,
+                    "No. of PDs": 30873,
+                    "No. of Calvings": 8483,
+                    "Farmers Benefited": 39151
+                }
+            },
+            {
+                "name": "EAST NIMAR",
+                "data": {
+                    "No. of AIs": 49213,
+                    "No. of PDs": 32837,
+                    "No. of Calvings": 7667,
+                    "Farmers Benefited": 39679
+                }
+            },
+            {
+                "name": "RAJGARH",
+                "data": {
+                    "No. of AIs": 48577,
+                    "No. of PDs": 40442,
+                    "No. of Calvings": 14302,
+                    "Farmers Benefited": 31580
+                }
+            },
+            {
+                "name": "DAMOH",
+                "data": {
+                    "No. of AIs": 48496,
+                    "No. of PDs": 39264,
+                    "No. of Calvings": 13320,
+                    "Farmers Benefited": 40401
+                }
+            },
+            {
+                "name": "PANNA",
+                "data": {
+                    "No. of AIs": 46487,
+                    "No. of PDs": 35197,
+                    "No. of Calvings": 12241,
+                    "Farmers Benefited": 36448
+                }
+            },
+            {
+                "name": "DATIA",
+                "data": {
+                    "No. of AIs": 45916,
+                    "No. of PDs": 16578,
+                    "No. of Calvings": 5923,
+                    "Farmers Benefited": 36180
+                }
+            },
+            {
+                "name": "KHARGONE",
+                "data": {
+                    "No. of AIs": 42449,
+                    "No. of PDs": 30451,
+                    "No. of Calvings": 8306,
+                    "Farmers Benefited": 36548
+                }
+            },
+            {
+                "name": "SHEOPUR",
+                "data": {
+                    "No. of AIs": 41389,
+                    "No. of PDs": 26833,
+                    "No. of Calvings": 7660,
+                    "Farmers Benefited": 28379
+                }
+            },
+            {
+                "name": "SHAHDOL",
+                "data": {
+                    "No. of AIs": 41215,
+                    "No. of PDs": 28667,
+                    "No. of Calvings": 11669,
+                    "Farmers Benefited": 33629
+                }
+            },
+            {
+                "name": "ALIRAJPUR",
+                "data": {
+                    "No. of AIs": 38268,
+                    "No. of PDs": 27291,
+                    "No. of Calvings": 6996,
+                    "Farmers Benefited": 32818
+                }
+            },
+            {
+                "name": "ANUPPUR",
+                "data": {
+                    "No. of AIs": 36136,
+                    "No. of PDs": 24930,
+                    "No. of Calvings": 12893,
+                    "Farmers Benefited": 29622
+                }
+            },
+            {
+                "name": "TIKAMGARH",
+                "data": {
+                    "No. of AIs": 33826,
+                    "No. of PDs": 18160,
+                    "No. of Calvings": 5605,
+                    "Farmers Benefited": 28451
+                }
+            },
+            {
+                "name": "BHOPAL",
+                "data": {
+                    "No. of AIs": 32048,
+                    "No. of PDs": 16270,
+                    "No. of Calvings": 5018,
+                    "Farmers Benefited": 26468
+                }
+            },
+            {
+                "name": "VIDISHA",
+                "data": {
+                    "No. of AIs": 31850,
+                    "No. of PDs": 14056,
+                    "No. of Calvings": 7337,
+                    "Farmers Benefited": 26673
+                }
+            },
+            {
+                "name": "ASHOKNAGAR",
+                "data": {
+                    "No. of AIs": 31279,
+                    "No. of PDs": 23389,
+                    "No. of Calvings": 8920,
+                    "Farmers Benefited": 23644
+                }
+            },
+            {
+                "name": "DINDORI",
+                "data": {
+                    "No. of AIs": 27835,
+                    "No. of PDs": 24308,
+                    "No. of Calvings": 13241,
+                    "Farmers Benefited": 23172
+                }
+            },
+            {
+                "name": "BURHANPUR",
+                "data": {
+                    "No. of AIs": 26600,
+                    "No. of PDs": 17189,
+                    "No. of Calvings": 3694,
+                    "Farmers Benefited": 13579
+                }
+            },
+            {
+                "name": "AGAR MALWA",
+                "data": {
+                    "No. of AIs": 26231,
+                    "No. of PDs": 18472,
+                    "No. of Calvings": 4755,
+                    "Farmers Benefited": 16865
+                }
+            },
+            {
+                "name": "SINGRAULI",
+                "data": {
+                    "No. of AIs": 25783,
+                    "No. of PDs": 16335,
+                    "No. of Calvings": 4366,
+                    "Farmers Benefited": 21428
+                }
+            },
+            {
+                "name": "KATNI",
+                "data": {
+                    "No. of AIs": 23932,
+                    "No. of PDs": 6968,
+                    "No. of Calvings": 3355,
+                    "Farmers Benefited": 19362
+                }
+            },
+            {
+                "name": "Niwari",
+                "data": {
+                    "No. of AIs": 21584,
+                    "No. of PDs": 11635,
+                    "No. of Calvings": 2657,
+                    "Farmers Benefited": 19008
+                }
+            },
+            {
+                "name": "UMARIA",
+                "data": {
+                    "No. of AIs": 20945,
+                    "No. of PDs": 16423,
+                    "No. of Calvings": 3278,
+                    "Farmers Benefited": 18352
+                }
+            }
+        ]
+    },
+    "MAHARASHTRA": {
+        "districts": [
+            {
+                "name": "AHMEDNAGAR",
+                "data": {
+                    "No. of AIs": 291910,
+                    "No. of PDs": 205066,
+                    "No. of Calvings": 46239,
+                    "Farmers Benefited": 229345
+                }
+            },
+            {
+                "name": "PUNE",
+                "data": {
+                    "No. of AIs": 290450,
+                    "No. of PDs": 124394,
+                    "No. of Calvings": 7611,
+                    "Farmers Benefited": 201180
+                }
+            },
+            {
+                "name": "SATARA",
+                "data": {
+                    "No. of AIs": 233904,
+                    "No. of PDs": 127958,
+                    "No. of Calvings": 19662,
+                    "Farmers Benefited": 185763
+                }
+            },
+            {
+                "name": "SOLAPUR",
+                "data": {
+                    "No. of AIs": 215346,
+                    "No. of PDs": 69479,
+                    "No. of Calvings": 7356,
+                    "Farmers Benefited": 169317
+                }
+            },
+            {
+                "name": "DHARASHIV",
+                "data": {
+                    "No. of AIs": 190283,
+                    "No. of PDs": 100325,
+                    "No. of Calvings": 21173,
+                    "Farmers Benefited": 154992
+                }
+            },
+            {
+                "name": "LATUR",
+                "data": {
+                    "No. of AIs": 181433,
+                    "No. of PDs": 87295,
+                    "No. of Calvings": 12692,
+                    "Farmers Benefited": 158085
+                }
+            },
+            {
+                "name": "NASHIK",
+                "data": {
+                    "No. of AIs": 148333,
+                    "No. of PDs": 89216,
+                    "No. of Calvings": 11372,
+                    "Farmers Benefited": 122438
+                }
+            },
+            {
+                "name": "SANGLI",
+                "data": {
+                    "No. of AIs": 133604,
+                    "No. of PDs": 65207,
+                    "No. of Calvings": 8576,
+                    "Farmers Benefited": 105344
+                }
+            },
+            {
+                "name": "JALGAON",
+                "data": {
+                    "No. of AIs": 124596,
+                    "No. of PDs": 47393,
+                    "No. of Calvings": 7413,
+                    "Farmers Benefited": 104587
+                }
+            },
+            {
+                "name": "NAGPUR",
+                "data": {
+                    "No. of AIs": 108675,
+                    "No. of PDs": 52090,
+                    "No. of Calvings": 11289,
+                    "Farmers Benefited": 91420
+                }
+            },
+            {
+                "name": "BEED",
+                "data": {
+                    "No. of AIs": 107129,
+                    "No. of PDs": 65444,
+                    "No. of Calvings": 9268,
+                    "Farmers Benefited": 89499
+                }
+            },
+            {
+                "name": "CHHATRAPATI SAMBHAJI NAGAR",
+                "data": {
+                    "No. of AIs": 106042,
+                    "No. of PDs": 54151,
+                    "No. of Calvings": 2851,
+                    "Farmers Benefited": 89640
+                }
+            },
+            {
+                "name": "NANDED",
+                "data": {
+                    "No. of AIs": 104315,
+                    "No. of PDs": 53535,
+                    "No. of Calvings": 4679,
+                    "Farmers Benefited": 91046
+                }
+            },
+            {
+                "name": "BHANDARA",
+                "data": {
+                    "No. of AIs": 96424,
+                    "No. of PDs": 52820,
+                    "No. of Calvings": 8420,
+                    "Farmers Benefited": 83992
+                }
+            },
+            {
+                "name": "BULDHANA",
+                "data": {
+                    "No. of AIs": 86715,
+                    "No. of PDs": 50073,
+                    "No. of Calvings": 3222,
+                    "Farmers Benefited": 75693
+                }
+            },
+            {
+                "name": "JALNA",
+                "data": {
+                    "No. of AIs": 75216,
+                    "No. of PDs": 35559,
+                    "No. of Calvings": 3900,
+                    "Farmers Benefited": 60151
+                }
+            },
+            {
+                "name": "AMRAVATI",
+                "data": {
+                    "No. of AIs": 70791,
+                    "No. of PDs": 35483,
+                    "No. of Calvings": 5430,
+                    "Farmers Benefited": 62394
+                }
+            },
+            {
+                "name": "WARDHA",
+                "data": {
+                    "No. of AIs": 65138,
+                    "No. of PDs": 40941,
+                    "No. of Calvings": 6581,
+                    "Farmers Benefited": 55399
+                }
+            },
+            {
+                "name": "GONDIA",
+                "data": {
+                    "No. of AIs": 54971,
+                    "No. of PDs": 32333,
+                    "No. of Calvings": 5861,
+                    "Farmers Benefited": 48735
+                }
+            },
+            {
+                "name": "YAVATMAL",
+                "data": {
+                    "No. of AIs": 53119,
+                    "No. of PDs": 24277,
+                    "No. of Calvings": 2735,
+                    "Farmers Benefited": 45791
+                }
+            },
+            {
+                "name": "AKOLA",
+                "data": {
+                    "No. of AIs": 50704,
+                    "No. of PDs": 23629,
+                    "No. of Calvings": 2900,
+                    "Farmers Benefited": 43112
+                }
+            },
+            {
+                "name": "CHANDRAPUR",
+                "data": {
+                    "No. of AIs": 50674,
+                    "No. of PDs": 32539,
+                    "No. of Calvings": 5164,
+                    "Farmers Benefited": 44041
+                }
+            },
+            {
+                "name": "DHULE",
+                "data": {
+                    "No. of AIs": 44755,
+                    "No. of PDs": 27026,
+                    "No. of Calvings": 1838,
+                    "Farmers Benefited": 37634
+                }
+            },
+            {
+                "name": "HINGOLI",
+                "data": {
+                    "No. of AIs": 42356,
+                    "No. of PDs": 29142,
+                    "No. of Calvings": 3580,
+                    "Farmers Benefited": 38474
+                }
+            },
+            {
+                "name": "PARBHANI",
+                "data": {
+                    "No. of AIs": 38080,
+                    "No. of PDs": 15398,
+                    "No. of Calvings": 1743,
+                    "Farmers Benefited": 33969
+                }
+            },
+            {
+                "name": "RAIGAD",
+                "data": {
+                    "No. of AIs": 34551,
+                    "No. of PDs": 21268,
+                    "No. of Calvings": 3979,
+                    "Farmers Benefited": 29043
+                }
+            },
+            {
+                "name": "SINDHUDURG",
+                "data": {
+                    "No. of AIs": 32044,
+                    "No. of PDs": 18006,
+                    "No. of Calvings": 3580,
+                    "Farmers Benefited": 28608
+                }
+            },
+            {
+                "name": "PALGHAR",
+                "data": {
+                    "No. of AIs": 31986,
+                    "No. of PDs": 21511,
+                    "No. of Calvings": 2679,
+                    "Farmers Benefited": 26047
+                }
+            },
+            {
+                "name": "RATNAGIRI",
+                "data": {
+                    "No. of AIs": 31869,
+                    "No. of PDs": 16405,
+                    "No. of Calvings": 4177,
+                    "Farmers Benefited": 26638
+                }
+            },
+            {
+                "name": "NANDURBAR",
+                "data": {
+                    "No. of AIs": 31318,
+                    "No. of PDs": 24104,
+                    "No. of Calvings": 3257,
+                    "Farmers Benefited": 27714
+                }
+            },
+            {
+                "name": "THANE",
+                "data": {
+                    "No. of AIs": 29443,
+                    "No. of PDs": 16932,
+                    "No. of Calvings": 2086,
+                    "Farmers Benefited": 22876
+                }
+            },
+            {
+                "name": "GADCHIROLI",
+                "data": {
+                    "No. of AIs": 24598,
+                    "No. of PDs": 15491,
+                    "No. of Calvings": 2219,
+                    "Farmers Benefited": 21613
+                }
+            },
+            {
+                "name": "WASHIM",
+                "data": {
+                    "No. of AIs": 21323,
+                    "No. of PDs": 12172,
+                    "No. of Calvings": 1460,
+                    "Farmers Benefited": 19165
+                }
+            }
+        ]
+    },
+    "MANIPUR": {
+        "districts": [
+            {
+                "name": "THOUBAL",
+                "data": {
+                    "No. of AIs": 2572,
+                    "No. of PDs": 9,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 2320
+                }
+            },
+            {
+                "name": "IMPHAL WEST",
+                "data": {
+                    "No. of AIs": 1353,
+                    "No. of PDs": 119,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 1162
+                }
+            },
+            {
+                "name": "BISHNUPUR",
+                "data": {
+                    "No. of AIs": 742,
+                    "No. of PDs": 23,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 596
+                }
+            },
+            {
+                "name": "IMPHAL EAST",
+                "data": {
+                    "No. of AIs": 588,
+                    "No. of PDs": 81,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 482
+                }
+            },
+            {
+                "name": "CHURACHANDPUR",
+                "data": {
+                    "No. of AIs": 118,
+                    "No. of PDs": 43,
+                    "No. of Calvings": 14,
+                    "Farmers Benefited": 44
+                }
+            },
+            {
+                "name": "UKHRUL",
+                "data": {
+                    "No. of AIs": 84,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 75
+                }
+            },
+            {
+                "name": "CHANDEL",
+                "data": {
+                    "No. of AIs": 81,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 75
+                }
+            },
+            {
+                "name": "SENAPATI",
+                "data": {
+                    "No. of AIs": 20,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 17
+                }
+            }
+        ]
+    },
+    "MEGHALAYA": {
+        "districts": [
+            {
+                "name": "RI BHOI",
+                "data": {
+                    "No. of AIs": 17978,
+                    "No. of PDs": 9181,
+                    "No. of Calvings": 1248,
+                    "Farmers Benefited": 9370
+                }
+            },
+            {
+                "name": "EAST KHASI HILLS",
+                "data": {
+                    "No. of AIs": 11614,
+                    "No. of PDs": 5526,
+                    "No. of Calvings": 1737,
+                    "Farmers Benefited": 9140
+                }
+            },
+            {
+                "name": "WEST GARO HILLS",
+                "data": {
+                    "No. of AIs": 2159,
+                    "No. of PDs": 335,
+                    "No. of Calvings": 113,
+                    "Farmers Benefited": 1931
+                }
+            },
+            {
+                "name": "SOUTH WEST GARO HILLS",
+                "data": {
+                    "No. of AIs": 1913,
+                    "No. of PDs": 1097,
+                    "No. of Calvings": 131,
+                    "Farmers Benefited": 1594
+                }
+            },
+            {
+                "name": "WEST JAINTIA HILLS",
+                "data": {
+                    "No. of AIs": 598,
+                    "No. of PDs": 215,
+                    "No. of Calvings": 34,
+                    "Farmers Benefited": 410
+                }
+            },
+            {
+                "name": "EAST JAINTIA HILLS",
+                "data": {
+                    "No. of AIs": 557,
+                    "No. of PDs": 170,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 332
+                }
+            },
+            {
+                "name": "EAST GARO HILLS",
+                "data": {
+                    "No. of AIs": 119,
+                    "No. of PDs": 41,
+                    "No. of Calvings": 11,
+                    "Farmers Benefited": 93
+                }
+            },
+            {
+                "name": "NORTH GARO HILLS",
+                "data": {
+                    "No. of AIs": 90,
+                    "No. of PDs": 24,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 74
+                }
+            },
+            {
+                "name": "WEST KHASI HILLS",
+                "data": {
+                    "No. of AIs": 75,
+                    "No. of PDs": 33,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 50
+                }
+            },
+            {
+                "name": "SOUTH WEST KHASI HILLS",
+                "data": {
+                    "No. of AIs": 60,
+                    "No. of PDs": 32,
+                    "No. of Calvings": 1,
+                    "Farmers Benefited": 50
+                }
+            },
+            {
+                "name": "SOUTH GARO HILLS",
+                "data": {
+                    "No. of AIs": 22,
+                    "No. of PDs": 11,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 17
+                }
+            }
+        ]
+    },
+    "MIZORAM": {
+        "districts": [
+            {
+                "name": "AIZAWL",
+                "data": {
+                    "No. of AIs": 2341,
+                    "No. of PDs": 1315,
+                    "No. of Calvings": 962,
+                    "Farmers Benefited": 1991
+                }
+            },
+            {
+                "name": "LUNGLEI",
+                "data": {
+                    "No. of AIs": 671,
+                    "No. of PDs": 489,
+                    "No. of Calvings": 113,
+                    "Farmers Benefited": 534
+                }
+            },
+            {
+                "name": "KOLASIB",
+                "data": {
+                    "No. of AIs": 654,
+                    "No. of PDs": 339,
+                    "No. of Calvings": 91,
+                    "Farmers Benefited": 573
+                }
+            },
+            {
+                "name": "SERCHHIP",
+                "data": {
+                    "No. of AIs": 193,
+                    "No. of PDs": 55,
+                    "No. of Calvings": 20,
+                    "Farmers Benefited": 156
+                }
+            },
+            {
+                "name": "CHAMPHAI",
+                "data": {
+                    "No. of AIs": 109,
+                    "No. of PDs": 64,
+                    "No. of Calvings": 51,
+                    "Farmers Benefited": 97
+                }
+            },
+            {
+                "name": "MAMIT",
+                "data": {
+                    "No. of AIs": 85,
+                    "No. of PDs": 55,
+                    "No. of Calvings": 43,
+                    "Farmers Benefited": 61
+                }
+            },
+            {
+                "name": "LAWNGTLAI",
+                "data": {
+                    "No. of AIs": 42,
+                    "No. of PDs": 36,
+                    "No. of Calvings": 13,
+                    "Farmers Benefited": 34
+                }
+            },
+            {
+                "name": "SAIHA",
+                "data": {
+                    "No. of AIs": 8,
+                    "No. of PDs": 0,
+                    "No. of Calvings": 0,
+                    "Farmers Benefited": 7
+                }
+            }
+        ]
+    },
+    "NAGALAND": {
+        "districts": [
+            {
+                "name": "DIMAPUR",
+                "data": {
+                    "No. of AIs": 4773,
+                    "No. of PDs": 1500,
+                    "No. of Calvings": 624,
+                    "Farmers Benefited": 3724
+                }
+            },
+            {
+                "name": "KOHIMA",
+                "data": {
+                    "No. of AIs": 4614,
+                    "No. of PDs": 2402,
+                    "No. of Calvings": 480,
+                    "Farmers Benefited": 2488
+                }
+            },
+            {
+                "name": "PEREN",
+                "data": {
+                    "No. of AIs": 1422,
+                    "No. of PDs": 324,
+                    "No. of Calvings": 29,
+                    "Farmers Benefited": 959
+                }
+            },
+            {
+                "name": "MON",
+                "data": {
+                    "No. of AIs": 816,
+                    "No. of PDs": 136,
+                    "No. of Calvings": 18,
+                    "Farmers Benefited": 667
+                }
+            },
+            {
+                "name": "MOKOKCHUNG",
+                "data": {
+                    "No. of AIs": 720,
+                    "No. of PDs": 228,
+                    "No. of Calvings": 95,
+                    "Farmers Benefited": 480
+                }
+            },
+            {
+                "name": "ZUNHEBOTO",
+                "data": {
+                    "No. of AIs": 623,
+                    "No. of PDs": 71,
+                    "No. of Calvings": 10,
+                    "Farmers Benefited": 297
+                }
+            },
+            {
+                "name": "PHEK",
+                "data": {
+                    "No. of AIs": 416,
+                    "No. of PDs": 112,
+                    "No. of Calvings": 37,
+                    "Farmers Benefited": 312
+                }
+            },
+            {
+                "name": "LONGLENG",
+                "data": {
+                    "No. of AIs": 396,
+                    "No. of PDs": 43,
+                    "No. of Calvings": 22,
+                    "Farmers Benefited": 281
+                }
+            },
+            {
+                "name": "KIPHIRE",
+                "data": {
+                    "No. of AIs": 235,
+                    "No. of PDs": 20,
+                    "No. of Calvings": 9,
+                    "Farmers Benefited": 187
+                }
+            },
+            {
+                "name": "WOKHA",
+                "data": {
+                    "No. of AIs": 146,
+                    "No. of PDs": 34,
+                    "No. of Calvings": 7,
+                    "Farmers Benefited": 107
+                }
+            },
+            {
+                "name": "TUENSANG",
+                "data": {
+                    "No. of AIs": 137,
+                    "No. of PDs": 3,
+                    "No. of Calvings": 2,
+                    "Farmers Benefited": 111
+                }
+            }
+        ]
+    },
+    "ODISHA": {
+        "districts": [
+            {
+                "name": "CUTTACK",
+                "data": {
+                    "No. of AIs": 255663,
+                    "No. of PDs": 151474,
+                    "No. of Calvings": 30280,
+                    "Farmers Benefited": 211100
+                }
+            },
+            {
+                "name": "PURI",
+                "data": {
+                    "No. of AIs": 174443,
+                    "No. of PDs": 92010,
+                    "No. of Calvings": 7034,
+                    "Farmers Benefited": 135338
+                }
+            },
+            {
+                "name": "BALESHWAR",
+                "data": {
+                    "No. of AIs": 136205,
+                    "No. of PDs": 88176,
+                    "No. of Calvings": 12149,
+                    "Farmers Benefited": 122484
+                }
+            },
+            {
+                "name": "JAGATSINGHAPUR",
+                "data": {
+                    "No. of AIs": 125304,
+                    "No. of PDs": 83605,
+                    "No. of Calvings": 7133,
+                    "Farmers Benefited": 106653
+                }
+            },
+            {
+                "name": "KENDRAPARA",
+                "data": {
+                    "No. of AIs": 114632,
+                    "No. of PDs": 60679,
+                    "No. of Calvings": 6076,
+                    "Farmers Benefited": 97979
+                }
+            },
+            {
+                "name": "JAJAPUR",
+                "data": {
+                    "No. of AIs": 110803,
+                    "No. of PDs": 70356,
+                    "No. of Calvings": 6824,
+                    "Farmers Benefited": 97451
+                }
+            },
+            {
+                "name": "BHADRAK",
+                "data": {
+                    "No. of AIs": 106838,
+                    "No. of PDs": 69087,
+                    "No. of Calvings": 12902,
+                    "Farmers Benefited": 93296
+                }
+            },
+            {
+                "name": "KENDUJHAR",
+                "data": {
+                    "No. of AIs": 93214,
+                    "No. of PDs": 63970,
+                    "No. of Calvings": 8942,
+                    "Farmers Benefited": 82440
+                }
+            },
+            {
+                "name": "MAYURBHANJ",
+                "data": {
+                    "No. of AIs": 90123,
+                    "No. of PDs": 51201,
+                    "No. of Calvings": 7961,
+                    "Farmers Benefited": 81139
+                }
+            },
+            {
+                "name": "GANJAM",
+                "data": {
+                    "No. of AIs": 88070,
+                    "No. of PDs": 69868,
+                    "No. of Calvings": 9316,
+                    "Farmers Benefited": 72891
+                }
+            },
+            {
+                "name": "BARGARH",
+                "data": {
+                    "No. of AIs": 80656,
+                    "No. of PDs": 40237,
+                    "No. of Calvings": 7404,
+                    "Farmers Benefited": 69868
+                }
+            },
+            {
+                "name": "BALANGIR",
+                "data": {
+                    "No. of AIs": 76634,
+                    "No. of PDs": 44254,
+                    "No. of Calvings": 10543,
+                    "Farmers Benefited": 66681
+                }
+            },
+            {
+                "name": "ANUGUL",
+                "data": {
+                    "No. of AIs": 70620,
+                    "No. of PDs": 43756,
+                    "No. of Calvings": 5515,
+                    "Farmers Benefited": 60932
+                }
+            },
+            {
+                "name": "KHORDHA",
+                "data": {
+                    "No. of AIs": 68232,
+                    "No. of PDs": 33039,
+                    "No. of Calvings": 8046,
+                    "Farmers Benefited": 54714
+                }
+            },
+            {
+                "name": "DHENKANAL",
+                "data": {
+                    "No. of AIs": 64804,
+                    "No. of PDs": 35842,
+                    "No. of Calvings": 3605,
+                    "Farmers Benefited": 55125
+                }
+            },
+            {
+                "name": "SUNDARGARH",
+                "data": {
+                    "No. of AIs": 53729,
+                    "No. of PDs": 38112,
+                    "No. of Calvings": 6726,
+                    "Farmers Benefited": 46140
+                }
+            },
+            {
+                "name": "KORAPUT",
+                "data": {
+                    "No. of AIs": 53545,
+                    "No. of PDs": 42631,
+                    "No. of Calvings": 3789,
+                    "Farmers Benefited": 46614
+                }
+            },
+            {
+                "name": "KALAHANDI",
+                "data": {
+                    "No. of AIs": 45060,
+                    "No. of PDs": 26746,
+                    "No. of Calvings": 4819,
+                    "Farmers Benefited": 40753
+                }
+            },
+            {
+                "name": "SAMBALPUR",
+                "data": {
+                    "No. of AIs": 44337,
+                    "No. of PDs": 27290,
+                    "No. of Calvings": 3528,
+                    "Farmers Benefited": 37139
+                }
+            },
+            {
+                "name": "NAYAGARH",
+                "data": {
+                    "No. of AIs": 39331,
+                    "No. of PDs": 26037,
+                    "No. of Calvings": 3701,
+                    "Farmers Benefited": 34633
+                }
+            },
+            {
+                "name": "SONEPUR",
+                "data": {
+                    "No. of AIs": 32025,
+                    "No. of PDs": 16346,
+                    "No. of Calvings": 4183,
+                    "Farmers Benefited": 27246
+                }
+            },
+            {
+                "name": "NABARANGPUR",
+                "data": {
+                    "No. of AIs": 31326,
+                    "No. of PDs": 24634,
+                    "No. of Calvings": 2893,
+                    "Farmers Benefited": 27408
+                }
+            },
+            {
+                "name": "BOUDH",
+                "data": {
+                    "No. of AIs": 27896,
+                    "No. of PDs": 22268,
+                    "No. of Calvings": 8566,
+                    "Farmers Benefited": 23699
+                }
+            },
+            {
+                "name": "RAYAGADA",
+                "data": {
+                    "No. of AIs": 27119,
+                    "No. of PDs": 26207,
+                    "No. of Calvings": 1709,
+                    "Farmers Benefited": 23768
+                }
+            },
+            {
+                "name": "MALKANGIRI",
+                "data": {
+                    "No. of AIs": 26214,
+                    "No. of PDs": 17503,
+                    "No. of Calvings": 2650,
+                    "Farmers Benefited": 22510
+                }
+            },
+            {
+                "name": "KANDHAMAL",
+                "data": {
+                    "No. of AIs": 23794,
+                    "No. of PDs": 16038,
+                    "No. of Calvings": 1786,
+                    "Farmers Benefited": 20421
+                }
+            },
+            {
+                "name": "JHARSUGUDA",
+                "data": {
+                    "No. of AIs": 20602,
+                    "No. of PDs": 12597,
+                    "No. of Calvings": 3169,
+                    "Farmers Benefited": 16854
+                }
+            },
+            {
+                "name": "NUAPADA",
+                "data": {
+                    "No. of AIs": 18096,
+                    "No. of PDs": 15322,
+                    "No. of Calvings": 1400,
+                    "Farmers Benefited": 16069
+                }
+            },
+            {
+                "name": "DEOGARH",
+                "data": {
+                    "No. of AIs": 13788,
+                    "No. of PDs": 8320,
+                    "No. of Calvings": 938,
+                    "Farmers Benefited": 12184
+                }
+            },
+            {
+                "name": "GAJAPATI",
+                "data": {
+                    "No. of AIs": 13444,
+                    "No. of PDs": 10055,
+                    "No. of Calvings": 1023,
+                    "Farmers Benefited": 11568
+                }
+            }
+        ]
+    },
+    "RAJASTHAN": {
+        "districts": [
+            {
+                "name": "JAIPUR",
+                "data": {
+                    "No. of AIs": 483157,
+                    "No. of PDs": 204496,
+                    "No. of Calvings": 56447,
+                    "Farmers Benefited": 355908
+                }
+            },
+            {
+                "name": "ALWAR",
+                "data": {
+                    "No. of AIs": 241073,
+                    "No. of PDs": 159703,
+                    "No. of Calvings": 36484,
+                    "Farmers Benefited": 201321
+                }
+            },
+            {
+                "name": "SIKAR",
+                "data": {
+                    "No. of AIs": 179728,
+                    "No. of PDs": 89023,
+                    "No. of Calvings": 20791,
+                    "Farmers Benefited": 137635
+                }
+            },
+            {
+                "name": "NAGAUR",
+                "data": {
+                    "No. of AIs": 168158,
+                    "No. of PDs": 70478,
+                    "No. of Calvings": 14564,
+                    "Farmers Benefited": 131966
+                }
+            },
+            {
+                "name": "AJMER",
+                "data": {
+                    "No. of AIs": 151225,
+                    "No. of PDs": 44141,
+                    "No. of Calvings": 7296,
+                    "Farmers Benefited": 117676
+                }
+            },
+            {
+                "name": "BHARATPUR",
+                "data": {
+                    "No. of AIs": 145108,
+                    "No. of PDs": 63396,
+                    "No. of Calvings": 10657,
+                    "Farmers Benefited": 128785
+                }
+            },
+            {
+                "name": "HANUMANGARH",
+                "data": {
+                    "No. of AIs": 136459,
+                    "No. of PDs": 79402,
+                    "No. of Calvings": 20481,
+                    "Farmers Benefited": 118353
+                }
+            },
+            {
+                "name": "JODHPUR",
+                "data": {
+                    "No. of AIs": 134574,
+                    "No. of PDs": 71754,
+                    "No. of Calvings": 18454,
+                    "Farmers Benefited": 116064
+                }
+            },
+            {
+                "name": "BANSWARA",
+                "data": {
+                    "No. of AIs": 129469,
+                    "No. of PDs": 41085,
+                    "No. of Calvings": 5960,
+                    "Farmers Benefited": 110300
+                }
+            },
+            {
+                "name": "GANGANAGAR",
+                "data": {
+                    "No. of AIs": 116786,
+                    "No. of PDs": 76591,
+                    "No. of Calvings": 26700,
+                    "Farmers Benefited": 100619
+                }
+            },
+            {
+                "name": "BHILWARA",
+                "data": {
+                    "No. of AIs": 115970,
+                    "No. of PDs": 49602,
+                    "No. of Calvings": 9105,
+                    "Farmers Benefited": 97087
+                }
+            },
+            {
+                "name": "KARAULI",
+                "data": {
+                    "No. of AIs": 111226,
+                    "No. of PDs": 31630,
+                    "No. of Calvings": 3495,
+                    "Farmers Benefited": 96321
+                }
+            },
+            {
+                "name": "UDAIPUR",
+                "data": {
+                    "No. of AIs": 107356,
+                    "No. of PDs": 35245,
+                    "No. of Calvings": 6923,
+                    "Farmers Benefited": 90840
+                }
+            },
+            {
+                "name": "CHURU",
+                "data": {
+                    "No. of AIs": 100561,
+                    "No. of PDs": 48968,
+                    "No. of Calvings": 9181,
+                    "Farmers Benefited": 88690
+                }
+            },
+            {
+                "name": "DAUSA",
+                "data": {
+                    "No. of AIs": 96435,
+                    "No. of PDs": 54260,
+                    "No. of Calvings": 7552,
+                    "Farmers Benefited": 82304
+                }
+            },
+            {
+                "name": "BIKANER",
+                "data": {
+                    "No. of AIs": 92274,
+                    "No. of PDs": 38240,
+                    "No. of Calvings": 6461,
+                    "Farmers Benefited": 76108
+                }
+            },
+            {
+                "name": "JHUNJHUNU",
+                "data": {
+                    "No. of AIs": 90799,
+                    "No. of PDs": 72472,
+                    "No. of Calvings": 18922,
+                    "Farmers Benefited": 77432
+                }
+            },
+            {
+                "name": "CHITTORGARH",
+                "data": {
+                    "No. of AIs": 77640,
+                    "No. of PDs": 29495,
+                    "No. of Calvings": 8123,
+                    "Farmers Benefited": 68353
+                }
+            },
+            {
+                "name": "BUNDI",
+                "data": {
+                    "No. of AIs": 75899,
+                    "No. of PDs": 26943,
+                    "No. of Calvings": 2253,
+                    "Farmers Benefited": 64088
+                }
+            },
+            {
+                "name": "TONK",
+                "data": {
+                    "No. of AIs": 74707,
+                    "No. of PDs": 18993,
+                    "No. of Calvings": 6252,
+                    "Farmers Benefited": 56102
+                }
+            },
+            {
+                "name": "DUNGARPUR",
+                "data": {
+                    "No. of AIs": 71821,
+                    "No. of PDs": 38182,
+                    "No. of Calvings": 2907,
+                    "Farmers Benefited": 62153
+                }
+            },
+            {
+                "name": "KOTA",
+                "data": {
+                    "No. of AIs": 68098,
+                    "No. of PDs": 19298,
+                    "No. of Calvings": 2213,
+                    "Farmers Benefited": 54814
+                }
+            },
+            {
+                "name": "PALI",
+                "data": {
+                    "No. of AIs": 66021,
+                    "No. of PDs": 41310,
+                    "No. of Calvings": 9308,
+                    "Farmers Benefited": 56167
+                }
+            },
+            {
+                "name": "SAWAI MADHOPUR",
+                "data": {
+                    "No. of AIs": 65263,
+                    "No. of PDs": 16047,
+                    "No. of Calvings": 2545,
+                    "Farmers Benefited": 54579
+                }
+            },
+            {
+                "name": "BARAN",
+                "data": {
+                    "No. of AIs": 55379,
+                    "No. of PDs": 18948,
+                    "No. of Calvings": 1603,
+                    "Farmers Benefited": 46446
+                }
+            },
+            {
+                "name": "JHALAWAR",
+                "data": {
+                    "No. of AIs": 48513,
+                    "No. of PDs": 23273,
+                    "No. of Calvings": 5684,
+                    "Farmers Benefited": 40992
+                }
+            },
+            {
+                "name": "PRATAPGARH",
+                "data": {
+                    "No. of AIs": 45615,
+                    "No. of PDs": 5425,
+                    "No. of Calvings": 512,
+                    "Farmers Benefited": 39688
+                }
+            },
+            {
+                "name": "JALORE",
+                "data": {
+                    "No. of AIs": 45252,
+                    "No. of PDs": 27243,
+                    "No. of Calvings": 3730,
+                    "Farmers Benefited": 38818
+                }
+            },
+            {
+                "name": "RAJSAMAND",
+                "data": {
+                    "No. of AIs": 39741,
+                    "No. of PDs": 21520,
+                    "No. of Calvings": 6768,
+                    "Farmers Benefited": 34219
+                }
+            },
+            {
+                "name": "SIROHI",
+                "data": {
+                    "No. of AIs": 37529,
+                    "No. of PDs": 20135,
+                    "No. of Calvings": 2159,
+                    "Farmers Benefited": 31497
+                }
+            },
+            {
+                "name": "DHOLPUR",
+                "data": {
+                    "No. of AIs": 29056,
+                    "No. of PDs": 12418,
+                    "No. of Calvings": 1276,
+                    "Farmers Benefited": 24573
+                }
+            },
+            {
+                "name": "BARMER",
+                "data": {
+                    "No. of AIs": 17861,
+                    "No. of PDs": 7731,
+                    "No. of Calvings": 1384,
+                    "Farmers Benefited": 15930
+                }
+            },
+            {
+                "name": "JAISALMER",
+                "data": {
+                    "No. of AIs": 8098,
+                    "No. of PDs": 4404,
+                    "No. of Calvings": 384,
+                    "Farmers Benefited": 6813
+                }
+            }
+        ]
+    },
+    "SIKKIM": {
+        "districts": [
+            {
+                "name": "Gangtok",
+                "data": {
+                    "No. of AIs": 4510,
+                    "No. of PDs": 2967,
+                    "No. of Calvings": 1164,
+                    "Farmers Benefited": 4319
+                }
+            },
+            {
+                "name": "Namchi",
+                "data": {
+                    "No. of AIs": 3832,
+                    "No. of PDs": 1471,
+                    "No. of Calvings": 678,
+                    "Farmers Benefited": 3454
+                }
+            },
+            {
+                "name": "Gyalshing",
+                "data": {
+                    "No. of AIs": 3502,
+                    "No. of PDs": 1970,
+                    "No. of Calvings": 684,
+                    "Farmers Benefited": 3356
+                }
+            },
+            {
+                "name": "Mangan",
+                "data": {
+                    "No. of AIs": 562,
+                    "No. of PDs": 380,
+                    "No. of Calvings": 201,
+                    "Farmers Benefited": 528
+                }
+            }
+        ]
+    },
+    "TAMIL NADU": {
+        "districts": [
+            {
+                "name": "SALEM",
+                "data": {
+                    "No. of AIs": 763965,
+                    "No. of PDs": 576314,
+                    "No. of Calvings": 152763,
+                    "Farmers Benefited": 529390
+                }
+            },
+            {
+                "name": "TIRUVANNAMALAI",
+                "data": {
+                    "No. of AIs": 517646,
+                    "No. of PDs": 355367,
+                    "No. of Calvings": 100473,
+                    "Farmers Benefited": 359040
+                }
+            },
+            {
+                "name": "VILLUPURAM",
+                "data": {
+                    "No. of AIs": 338474,
+                    "No. of PDs": 198498,
+                    "No. of Calvings": 38079,
+                    "Farmers Benefited": 235491
+                }
+            },
+            {
+                "name": "CUDDALORE",
+                "data": {
+                    "No. of AIs": 278346,
+                    "No. of PDs": 141470,
+                    "No. of Calvings": 31193,
+                    "Farmers Benefited": 162951
+                }
+            },
+            {
+                "name": "PUDUKKOTTAI",
+                "data": {
+                    "No. of AIs": 269818,
+                    "No. of PDs": 158988,
+                    "No. of Calvings": 71217,
+                    "Farmers Benefited": 157113
+                }
+            },
+            {
+                "name": "VIRUDHUNAGAR",
+                "data": {
+                    "No. of AIs": 225196,
+                    "No. of PDs": 135482,
+                    "No. of Calvings": 35040,
+                    "Farmers Benefited": 144247
+                }
+            },
+            {
+                "name": "THIRUVALLUR",
+                "data": {
+                    "No. of AIs": 215886,
+                    "No. of PDs": 135795,
+                    "No. of Calvings": 40102,
+                    "Farmers Benefited": 134159
+                }
+            },
+            {
+                "name": "KANCHIPURAM",
+                "data": {
+                    "No. of AIs": 181883,
+                    "No. of PDs": 124840,
+                    "No. of Calvings": 40566,
+                    "Farmers Benefited": 113269
+                }
+            },
+            {
+                "name": "SIVAGANGA",
+                "data": {
+                    "No. of AIs": 161199,
+                    "No. of PDs": 96954,
+                    "No. of Calvings": 24234,
+                    "Farmers Benefited": 122995
+                }
+            },
+            {
+                "name": "NAGAPATTINAM",
+                "data": {
+                    "No. of AIs": 90960,
+                    "No. of PDs": 28082,
+                    "No. of Calvings": 4628,
+                    "Farmers Benefited": 57226
+                }
+            },
+            {
+                "name": "RAMANATHAPURAM",
+                "data": {
+                    "No. of AIs": 58778,
+                    "No. of PDs": 35196,
+                    "No. of Calvings": 9612,
+                    "Farmers Benefited": 49431
+                }
+            },
+            {
+                "name": "THE NILGIRIS",
+                "data": {
+                    "No. of AIs": 37614,
+                    "No. of PDs": 20593,
+                    "No. of Calvings": 9616,
+                    "Farmers Benefited": 28023
+                }
+            },
+            {
+                "name": "CHENNAI",
+                "data": {
+                    "No. of AIs": 21307,
+                    "No. of PDs": 16080,
+                    "No. of Calvings": 5642,
+                    "Farmers Benefited": 11832
+                }
+            }
+        ]
+    },
+    "TELANGANA": {
+        "districts": [
+            {
+                "name": "KHAMMAM",
+                "data": {
+                    "No. of AIs": 182277,
+                    "No. of PDs": 73079,
+                    "No. of Calvings": 12912,
+                    "Farmers Benefited": 146459
+                }
+            },
+            {
+                "name": "NALGONDA",
+                "data": {
+                    "No. of AIs": 69001,
+                    "No. of PDs": 21931,
+                    "No. of Calvings": 5700,
+                    "Farmers Benefited": 51728
+                }
+            },
+            {
+                "name": "BHADRADRI KOTHAGUDEM",
+                "data": {
+                    "No. of AIs": 56202,
+                    "No. of PDs": 24278,
+                    "No. of Calvings": 5790,
+                    "Farmers Benefited": 43115
+                }
+            },
+            {
+                "name": "SURYAPET",
+                "data": {
+                    "No. of AIs": 55148,
+                    "No. of PDs": 20641,
+                    "No. of Calvings": 2756,
+                    "Farmers Benefited": 40235
+                }
+            },
+            {
+                "name": "ADILABAD",
+                "data": {
+                    "No. of AIs": 49987,
+                    "No. of PDs": 15512,
+                    "No. of Calvings": 359,
+                    "Farmers Benefited": 28208
+                }
+            },
+            {
+                "name": "SIDDIPET",
+                "data": {
+                    "No. of AIs": 47645,
+                    "No. of PDs": 11609,
+                    "No. of Calvings": 2874,
+                    "Farmers Benefited": 36298
+                }
+            },
+            {
+                "name": "NAGARKURNOOL",
+                "data": {
+                    "No. of AIs": 41652,
+                    "No. of PDs": 9837,
+                    "No. of Calvings": 1145,
+                    "Farmers Benefited": 28313
+                }
+            },
+            {
+                "name": "RANGA REDDY",
+                "data": {
+                    "No. of AIs": 39709,
+                    "No. of PDs": 15943,
+                    "No. of Calvings": 4339,
+                    "Farmers Benefited": 28244
+                }
+            },
+            {
+                "name": "Nirmal",
+                "data": {
+                    "No. of AIs": 39341,
+                    "No. of PDs": 7925,
+                    "No. of Calvings": 132,
+                    "Farmers Benefited": 30717
+                }
+            },
+            {
+                "name": "MANCHERIAL",
+                "data": {
+                    "No. of AIs": 38910,
+                    "No. of PDs": 15393,
+                    "No. of Calvings": 574,
+                    "Farmers Benefited": 27832
+                }
+            },
+            {
+                "name": "JOGULAMBA GADWAL",
+                "data": {
+                    "No. of AIs": 35554,
+                    "No. of PDs": 5394,
+                    "No. of Calvings": 393,
+                    "Farmers Benefited": 23774
+                }
+            },
+            {
+                "name": "YADADRI BHUVANAGIRI",
+                "data": {
+                    "No. of AIs": 35232,
+                    "No. of PDs": 11952,
+                    "No. of Calvings": 291,
+                    "Farmers Benefited": 24259
+                }
+            },
+            {
+                "name": "SANGAREDDY",
+                "data": {
+                    "No. of AIs": 35219,
+                    "No. of PDs": 14852,
+                    "No. of Calvings": 4113,
+                    "Farmers Benefited": 23980
+                }
+            },
+            {
+                "name": "VIKARABAD",
+                "data": {
+                    "No. of AIs": 33847,
+                    "No. of PDs": 16994,
+                    "No. of Calvings": 6711,
+                    "Farmers Benefited": 27250
+                }
+            },
+            {
+                "name": "MEDAK",
+                "data": {
+                    "No. of AIs": 30869,
+                    "No. of PDs": 11001,
+                    "No. of Calvings": 4524,
+                    "Farmers Benefited": 24161
+                }
+            },
+            {
+                "name": "HANUMAKONDA",
+                "data": {
+                    "No. of AIs": 30116,
+                    "No. of PDs": 4253,
+                    "No. of Calvings": 822,
+                    "Farmers Benefited": 20287
+                }
+            },
+            {
+                "name": "MAHABUBNAGAR",
+                "data": {
+                    "No. of AIs": 29850,
+                    "No. of PDs": 10667,
+                    "No. of Calvings": 3437,
+                    "Farmers Benefited": 18983
+                }
+            },
+            {
+                "name": "PEDDAPALLI",
+                "data": {
+                    "No. of AIs": 27132,
+                    "No. of PDs": 2964,
+                    "No. of Calvings": 520,
+                    "Farmers Benefited": 23074
+                }
+            },
+            {
+                "name": "WARANGAL",
+                "data": {
+                    "No. of AIs": 26859,
+                    "No. of PDs": 5718,
+                    "No. of Calvings": 923,
+                    "Farmers Benefited": 20819
+                }
+            },
+            {
+                "name": "Jagitial",
+                "data": {
+                    "No. of AIs": 26693,
+                    "No. of PDs": 4332,
+                    "No. of Calvings": 842,
+                    "Farmers Benefited": 21585
+                }
+            },
+            {
+                "name": "KAMAREDDY",
+                "data": {
+                    "No. of AIs": 26663,
+                    "No. of PDs": 4351,
+                    "No. of Calvings": 813,
+                    "Farmers Benefited": 19908
+                }
+            },
+            {
+                "name": "KUMURAM BHEEM ASIFABAD",
+                "data": {
+                    "No. of AIs": 25974,
+                    "No. of PDs": 7573,
+                    "No. of Calvings": 462,
+                    "Farmers Benefited": 19317
+                }
+            },
+            {
+                "name": "Narayanpet",
+                "data": {
+                    "No. of AIs": 24569,
+                    "No. of PDs": 5843,
+                    "No. of Calvings": 838,
+                    "Farmers Benefited": 17022
+                }
+            },
+            {
+                "name": "NIZAMABAD",
+                "data": {
+                    "No. of AIs": 24293,
+                    "No. of PDs": 5367,
+                    "No. of Calvings": 554,
+                    "Farmers Benefited": 18743
+                }
+            },
+            {
+                "name": "WANAPARTHY",
+                "data": {
+                    "No. of AIs": 24213,
+                    "No. of PDs": 9132,
+                    "No. of Calvings": 1987,
+                    "Farmers Benefited": 17393
+                }
+            },
+            {
+                "name": "JANGOAN",
+                "data": {
+                    "No. of AIs": 23677,
+                    "No. of PDs": 4782,
+                    "No. of Calvings": 876,
+                    "Farmers Benefited": 17748
+                }
+            },
+            {
+                "name": "KARIMNAGAR",
+                "data": {
+                    "No. of AIs": 23491,
+                    "No. of PDs": 2275,
+                    "No. of Calvings": 612,
+                    "Farmers Benefited": 19164
+                }
+            },
+            {
+                "name": "MAHABUBABAD",
+                "data": {
+                    "No. of AIs": 22298,
+                    "No. of PDs": 1606,
+                    "No. of Calvings": 101,
+                    "Farmers Benefited": 17460
+                }
+            },
+            {
+                "name": "JAYASHANKAR BHUPALAPALLY",
+                "data": {
+                    "No. of AIs": 18522,
+                    "No. of PDs": 5658,
+                    "No. of Calvings": 1899,
+                    "Farmers Benefited": 14823
+                }
+            },
+            {
+                "name": "Mulugu",
+                "data": {
+                    "No. of AIs": 16815,
+                    "No. of PDs": 6020,
+                    "No. of Calvings": 2787,
+                    "Farmers Benefited": 12063
+                }
+            },
+            {
+                "name": "RAJANNA SIRCILLA",
+                "data": {
+                    "No. of AIs": 15787,
+                    "No. of PDs": 1143,
+                    "No. of Calvings": 15,
+                    "Farmers Benefited": 12649
+                }
+            },
+            {
+                "name": "MEDCHAL MALKAJGIRI",
+                "data": {
+                    "No. of AIs": 10968,
+                    "No. of PDs": 6012,
+                    "No. of Calvings": 1080,
+                    "Farmers Benefited": 7717
+                }
+            }
+        ]
+    },
+    "TRIPURA": {
+        "districts": [
+            {
+                "name": "West Tripura",
+                "data": {
+                    "No. of AIs": 46445,
+                    "No. of PDs": 14367,
+                    "No. of Calvings": 5231,
+                    "Farmers Benefited": 40415
+                }
+            },
+            {
+                "name": "Sepahijala",
+                "data": {
+                    "No. of AIs": 26144,
+                    "No. of PDs": 10570,
+                    "No. of Calvings": 4583,
+                    "Farmers Benefited": 24200
+                }
+            },
+            {
+                "name": "Gomati",
+                "data": {
+                    "No. of AIs": 21681,
+                    "No. of PDs": 7163,
+                    "No. of Calvings": 3751,
+                    "Farmers Benefited": 18818
+                }
+            },
+            {
+                "name": "Dhalai",
+                "data": {
+                    "No. of AIs": 13965,
+                    "No. of PDs": 4205,
+                    "No. of Calvings": 2283,
+                    "Farmers Benefited": 12621
+                }
+            },
+            {
+                "name": "North Tripura",
+                "data": {
+                    "No. of AIs": 13741,
+                    "No. of PDs": 4774,
+                    "No. of Calvings": 1626,
+                    "Farmers Benefited": 12306
+                }
+            },
+            {
+                "name": "Khowai",
+                "data": {
+                    "No. of AIs": 13451,
+                    "No. of PDs": 3690,
+                    "No. of Calvings": 1429,
+                    "Farmers Benefited": 11992
+                }
+            },
+            {
+                "name": "South Tripura",
+                "data": {
+                    "No. of AIs": 10770,
+                    "No. of PDs": 6495,
+                    "No. of Calvings": 1989,
+                    "Farmers Benefited": 9989
+                }
+            },
+            {
+                "name": "Unakoti",
+                "data": {
+                    "No. of AIs": 5312,
+                    "No. of PDs": 2506,
+                    "No. of Calvings": 391,
+                    "Farmers Benefited": 4872
+                }
+            }
+        ]
+    },
+    "UTTARAKHAND": {
+        "districts": [
+            {
+                "name": "UDAM SINGH NAGAR",
+                "data": {
+                    "No. of AIs": 296849,
+                    "No. of PDs": 100317,
+                    "No. of Calvings": 17277,
+                    "Farmers Benefited": 238005
+                }
+            },
+            {
+                "name": "HARIDWAR",
+                "data": {
+                    "No. of AIs": 197651,
+                    "No. of PDs": 73432,
+                    "No. of Calvings": 8759,
+                    "Farmers Benefited": 156673
+                }
+            },
+            {
+                "name": "NAINITAL",
+                "data": {
+                    "No. of AIs": 144386,
+                    "No. of PDs": 45803,
+                    "No. of Calvings": 5437,
+                    "Farmers Benefited": 125464
+                }
+            },
+            {
+                "name": "DEHRADUN",
+                "data": {
+                    "No. of AIs": 126909,
+                    "No. of PDs": 50504,
+                    "No. of Calvings": 9464,
+                    "Farmers Benefited": 100356
+                }
+            },
+            {
+                "name": "ALMORA",
+                "data": {
+                    "No. of AIs": 59708,
+                    "No. of PDs": 20760,
+                    "No. of Calvings": 3271,
+                    "Farmers Benefited": 54966
+                }
+            },
+            {
+                "name": "CHAMOLI",
+                "data": {
+                    "No. of AIs": 51982,
+                    "No. of PDs": 14572,
+                    "No. of Calvings": 1125,
+                    "Farmers Benefited": 47625
+                }
+            },
+            {
+                "name": "CHAMPAWAT",
+                "data": {
+                    "No. of AIs": 48660,
+                    "No. of PDs": 22180,
+                    "No. of Calvings": 4393,
+                    "Farmers Benefited": 44374
+                }
+            },
+            {
+                "name": "BAGESHWAR",
+                "data": {
+                    "No. of AIs": 43225,
+                    "No. of PDs": 19630,
+                    "No. of Calvings": 3847,
+                    "Farmers Benefited": 40149
+                }
+            },
+            {
+                "name": "RUDRA PRAYAG",
+                "data": {
+                    "No. of AIs": 41944,
+                    "No. of PDs": 15142,
+                    "No. of Calvings": 3757,
+                    "Farmers Benefited": 38239
+                }
+            },
+            {
+                "name": "PITHORAGARH",
+                "data": {
+                    "No. of AIs": 39388,
+                    "No. of PDs": 17833,
+                    "No. of Calvings": 3210,
+                    "Farmers Benefited": 36354
+                }
+            },
+            {
+                "name": "TEHRI GARHWAL",
+                "data": {
+                    "No. of AIs": 37009,
+                    "No. of PDs": 19274,
+                    "No. of Calvings": 1936,
+                    "Farmers Benefited": 33909
+                }
+            },
+            {
+                "name": "PAURI GARHWAL",
+                "data": {
+                    "No. of AIs": 31934,
+                    "No. of PDs": 11010,
+                    "No. of Calvings": 1753,
+                    "Farmers Benefited": 27876
+                }
+            },
+            {
+                "name": "UTTAR KASHI",
+                "data": {
+                    "No. of AIs": 18433,
+                    "No. of PDs": 6177,
+                    "No. of Calvings": 933,
+                    "Farmers Benefited": 16846
+                }
+            }
+        ]
+    },
+    "UTTAR PRADESH": {
+        "districts": [
+            {
+                "name": "ALIGARH",
+                "data": {
+                    "No. of AIs": 483212,
+                    "No. of PDs": 145254,
+                    "No. of Calvings": 22386,
+                    "Farmers Benefited": 303287
+                }
+            },
+            {
+                "name": "BULANDSHAHR",
+                "data": {
+                    "No. of AIs": 370361,
+                    "No. of PDs": 101367,
+                    "No. of Calvings": 14323,
+                    "Farmers Benefited": 205554
+                }
+            },
+            {
+                "name": "MEERUT",
+                "data": {
+                    "No. of AIs": 345874,
+                    "No. of PDs": 113084,
+                    "No. of Calvings": 25177,
+                    "Farmers Benefited": 207438
+                }
+            },
+            {
+                "name": "HATHRAS",
+                "data": {
+                    "No. of AIs": 325648,
+                    "No. of PDs": 112200,
+                    "No. of Calvings": 22061,
+                    "Farmers Benefited": 202486
+                }
+            },
+            {
+                "name": "BUDAUN",
+                "data": {
+                    "No. of AIs": 316487,
+                    "No. of PDs": 114888,
+                    "No. of Calvings": 14669,
+                    "Farmers Benefited": 213135
+                }
+            },
+            {
+                "name": "MUZAFFARNAGAR",
+                "data": {
+                    "No. of AIs": 313475,
+                    "No. of PDs": 101765,
+                    "No. of Calvings": 26072,
+                    "Farmers Benefited": 210838
+                }
+            },
+            {
+                "name": "SITAPUR",
+                "data": {
+                    "No. of AIs": 312738,
+                    "No. of PDs": 80219,
+                    "No. of Calvings": 7837,
+                    "Farmers Benefited": 231771
+                }
+            },
+            {
+                "name": "KHERI",
+                "data": {
+                    "No. of AIs": 296513,
+                    "No. of PDs": 98192,
+                    "No. of Calvings": 9627,
+                    "Farmers Benefited": 228701
+                }
+            },
+            {
+                "name": "HARDOI",
+                "data": {
+                    "No. of AIs": 296284,
+                    "No. of PDs": 79873,
+                    "No. of Calvings": 6203,
+                    "Farmers Benefited": 207077
+                }
+            },
+            {
+                "name": "BARABANKI",
+                "data": {
+                    "No. of AIs": 294614,
+                    "No. of PDs": 114316,
+                    "No. of Calvings": 29432,
+                    "Farmers Benefited": 218360
+                }
+            },
+            {
+                "name": "MORADABAD",
+                "data": {
+                    "No. of AIs": 275876,
+                    "No. of PDs": 75594,
+                    "No. of Calvings": 10336,
+                    "Farmers Benefited": 187408
+                }
+            },
+            {
+                "name": "BAREILLY",
+                "data": {
+                    "No. of AIs": 263462,
+                    "No. of PDs": 108822,
+                    "No. of Calvings": 26744,
+                    "Farmers Benefited": 181781
+                }
+            },
+            {
+                "name": "RAE BARELI",
+                "data": {
+                    "No. of AIs": 259785,
+                    "No. of PDs": 76502,
+                    "No. of Calvings": 5095,
+                    "Farmers Benefited": 193558
+                }
+            },
+            {
+                "name": "BAGHPAT",
+                "data": {
+                    "No. of AIs": 259551,
+                    "No. of PDs": 69390,
+                    "No. of Calvings": 22302,
+                    "Farmers Benefited": 155525
+                }
+            },
+            {
+                "name": "LUCKNOW",
+                "data": {
+                    "No. of AIs": 257122,
+                    "No. of PDs": 99501,
+                    "No. of Calvings": 18045,
+                    "Farmers Benefited": 175639
+                }
+            },
+            {
+                "name": "AZAMGARH",
+                "data": {
+                    "No. of AIs": 255363,
+                    "No. of PDs": 89534,
+                    "No. of Calvings": 17637,
+                    "Farmers Benefited": 207103
+                }
+            },
+            {
+                "name": "BIJNOR",
+                "data": {
+                    "No. of AIs": 244758,
+                    "No. of PDs": 78330,
+                    "No. of Calvings": 18264,
+                    "Farmers Benefited": 173746
+                }
+            },
+            {
+                "name": "GORAKHPUR",
+                "data": {
+                    "No. of AIs": 238710,
+                    "No. of PDs": 65749,
+                    "No. of Calvings": 8025,
+                    "Farmers Benefited": 186376
+                }
+            },
+            {
+                "name": "DEORIA",
+                "data": {
+                    "No. of AIs": 235233,
+                    "No. of PDs": 80103,
+                    "No. of Calvings": 13005,
+                    "Farmers Benefited": 154000
+                }
+            },
+            {
+                "name": "UNNAO",
+                "data": {
+                    "No. of AIs": 234565,
+                    "No. of PDs": 52043,
+                    "No. of Calvings": 2478,
+                    "Farmers Benefited": 167359
+                }
+            },
+            {
+                "name": "AYODHYA",
+                "data": {
+                    "No. of AIs": 232347,
+                    "No. of PDs": 71064,
+                    "No. of Calvings": 13290,
+                    "Farmers Benefited": 174027
+                }
+            },
+            {
+                "name": "AMROHA",
+                "data": {
+                    "No. of AIs": 230215,
+                    "No. of PDs": 70226,
+                    "No. of Calvings": 9796,
+                    "Farmers Benefited": 157037
+                }
+            },
+            {
+                "name": "AGRA",
+                "data": {
+                    "No. of AIs": 229278,
+                    "No. of PDs": 52055,
+                    "No. of Calvings": 7739,
+                    "Farmers Benefited": 157367
+                }
+            },
+            {
+                "name": "VARANASI",
+                "data": {
+                    "No. of AIs": 224411,
+                    "No. of PDs": 92639,
+                    "No. of Calvings": 16339,
+                    "Farmers Benefited": 175507
+                }
+            },
+            {
+                "name": "SAHARANPUR",
+                "data": {
+                    "No. of AIs": 223569,
+                    "No. of PDs": 53445,
+                    "No. of Calvings": 10324,
+                    "Farmers Benefited": 146694
+                }
+            },
+            {
+                "name": "MIRZAPUR",
+                "data": {
+                    "No. of AIs": 220126,
+                    "No. of PDs": 71724,
+                    "No. of Calvings": 8451,
+                    "Farmers Benefited": 151728
+                }
+            },
+            {
+                "name": "FIROZABAD",
+                "data": {
+                    "No. of AIs": 215921,
+                    "No. of PDs": 44366,
+                    "No. of Calvings": 5265,
+                    "Farmers Benefited": 155265
+                }
+            },
+            {
+                "name": "PRAYAGRAJ",
+                "data": {
+                    "No. of AIs": 205374,
+                    "No. of PDs": 50195,
+                    "No. of Calvings": 5441,
+                    "Farmers Benefited": 162140
+                }
+            },
+            {
+                "name": "CHANDAULI",
+                "data": {
+                    "No. of AIs": 202731,
+                    "No. of PDs": 75432,
+                    "No. of Calvings": 17799,
+                    "Farmers Benefited": 152438
+                }
+            },
+            {
+                "name": "GHAZIPUR",
+                "data": {
+                    "No. of AIs": 202342,
+                    "No. of PDs": 77000,
+                    "No. of Calvings": 17745,
+                    "Farmers Benefited": 148296
+                }
+            },
+            {
+                "name": "KANPUR DEHAT",
+                "data": {
+                    "No. of AIs": 194019,
+                    "No. of PDs": 100814,
+                    "No. of Calvings": 17797,
+                    "Farmers Benefited": 131573
+                }
+            },
+            {
+                "name": "GONDA",
+                "data": {
+                    "No. of AIs": 192835,
+                    "No. of PDs": 43620,
+                    "No. of Calvings": 6069,
+                    "Farmers Benefited": 137870
+                }
+            },
+            {
+                "name": "ETAH",
+                "data": {
+                    "No. of AIs": 184046,
+                    "No. of PDs": 53968,
+                    "No. of Calvings": 5719,
+                    "Farmers Benefited": 109666
+                }
+            },
+            {
+                "name": "BAHRAICH",
+                "data": {
+                    "No. of AIs": 182119,
+                    "No. of PDs": 48603,
+                    "No. of Calvings": 3964,
+                    "Farmers Benefited": 135629
+                }
+            },
+            {
+                "name": "FATEHPUR",
+                "data": {
+                    "No. of AIs": 177386,
+                    "No. of PDs": 47034,
+                    "No. of Calvings": 5664,
+                    "Farmers Benefited": 132838
+                }
+            },
+            {
+                "name": "AMBEDKAR NAGAR",
+                "data": {
+                    "No. of AIs": 170888,
+                    "No. of PDs": 65981,
+                    "No. of Calvings": 7515,
+                    "Farmers Benefited": 123980
+                }
+            },
+            {
+                "name": "MATHURA",
+                "data": {
+                    "No. of AIs": 166210,
+                    "No. of PDs": 38367,
+                    "No. of Calvings": 5409,
+                    "Farmers Benefited": 112554
+                }
+            },
+            {
+                "name": "KANPUR NAGAR",
+                "data": {
+                    "No. of AIs": 165875,
+                    "No. of PDs": 54346,
+                    "No. of Calvings": 4636,
+                    "Farmers Benefited": 124237
+                }
+            },
+            {
+                "name": "SHAHJAHANPUR",
+                "data": {
+                    "No. of AIs": 164487,
+                    "No. of PDs": 54193,
+                    "No. of Calvings": 6379,
+                    "Farmers Benefited": 107537
+                }
+            },
+            {
+                "name": "KUSHI NAGAR",
+                "data": {
+                    "No. of AIs": 164324,
+                    "No. of PDs": 39107,
+                    "No. of Calvings": 18189,
+                    "Farmers Benefited": 120770
+                }
+            },
+            {
+                "name": "SAMBHAL",
+                "data": {
+                    "No. of AIs": 161206,
+                    "No. of PDs": 45798,
+                    "No. of Calvings": 2598,
+                    "Farmers Benefited": 116691
+                }
+            },
+            {
+                "name": "SANT KABEER NAGAR",
+                "data": {
+                    "No. of AIs": 161073,
+                    "No. of PDs": 35653,
+                    "No. of Calvings": 616,
+                    "Farmers Benefited": 109685
+                }
+            },
+            {
+                "name": "HAPUR",
+                "data": {
+                    "No. of AIs": 153219,
+                    "No. of PDs": 65582,
+                    "No. of Calvings": 19413,
+                    "Farmers Benefited": 104751
+                }
+            },
+            {
+                "name": "SULTANPUR",
+                "data": {
+                    "No. of AIs": 147202,
+                    "No. of PDs": 61376,
+                    "No. of Calvings": 5938,
+                    "Farmers Benefited": 113483
+                }
+            },
+            {
+                "name": "PILIBHIT",
+                "data": {
+                    "No. of AIs": 144350,
+                    "No. of PDs": 42167,
+                    "No. of Calvings": 5074,
+                    "Farmers Benefited": 111356
+                }
+            },
+            {
+                "name": "BASTI",
+                "data": {
+                    "No. of AIs": 143512,
+                    "No. of PDs": 57129,
+                    "No. of Calvings": 9008,
+                    "Farmers Benefited": 105066
+                }
+            },
+            {
+                "name": "PRATAPGARH",
+                "data": {
+                    "No. of AIs": 143428,
+                    "No. of PDs": 59346,
+                    "No. of Calvings": 9422,
+                    "Farmers Benefited": 117031
+                }
+            },
+            {
+                "name": "ETAWAH",
+                "data": {
+                    "No. of AIs": 141758,
+                    "No. of PDs": 35737,
+                    "No. of Calvings": 2557,
+                    "Farmers Benefited": 109939
+                }
+            },
+            {
+                "name": "GHAZIABAD",
+                "data": {
+                    "No. of AIs": 140184,
+                    "No. of PDs": 33257,
+                    "No. of Calvings": 5412,
+                    "Farmers Benefited": 89701
+                }
+            },
+            {
+                "name": "Amethi",
+                "data": {
+                    "No. of AIs": 139172,
+                    "No. of PDs": 31643,
+                    "No. of Calvings": 4508,
+                    "Farmers Benefited": 104498
+                }
+            },
+            {
+                "name": "CHITRAKOOT",
+                "data": {
+                    "No. of AIs": 132252,
+                    "No. of PDs": 35408,
+                    "No. of Calvings": 5730,
+                    "Farmers Benefited": 103450
+                }
+            },
+            {
+                "name": "KAUSHAMBI",
+                "data": {
+                    "No. of AIs": 129481,
+                    "No. of PDs": 49432,
+                    "No. of Calvings": 2266,
+                    "Farmers Benefited": 98316
+                }
+            },
+            {
+                "name": "FARRUKHABAD",
+                "data": {
+                    "No. of AIs": 128073,
+                    "No. of PDs": 54987,
+                    "No. of Calvings": 6690,
+                    "Farmers Benefited": 97593
+                }
+            },
+            {
+                "name": "Kasganj",
+                "data": {
+                    "No. of AIs": 126995,
+                    "No. of PDs": 44263,
+                    "No. of Calvings": 3800,
+                    "Farmers Benefited": 84972
+                }
+            },
+            {
+                "name": "RAMPUR",
+                "data": {
+                    "No. of AIs": 126872,
+                    "No. of PDs": 28707,
+                    "No. of Calvings": 2547,
+                    "Farmers Benefited": 85217
+                }
+            },
+            {
+                "name": "KANNAUJ",
+                "data": {
+                    "No. of AIs": 125815,
+                    "No. of PDs": 36155,
+                    "No. of Calvings": 7309,
+                    "Farmers Benefited": 88404
+                }
+            },
+            {
+                "name": "MAINPURI",
+                "data": {
+                    "No. of AIs": 123649,
+                    "No. of PDs": 28463,
+                    "No. of Calvings": 1135,
+                    "Farmers Benefited": 94136
+                }
+            },
+            {
+                "name": "BALLIA",
+                "data": {
+                    "No. of AIs": 119389,
+                    "No. of PDs": 25176,
+                    "No. of Calvings": 1602,
+                    "Farmers Benefited": 92618
+                }
+            },
+            {
+                "name": "MAHARAJGANJ",
+                "data": {
+                    "No. of AIs": 118770,
+                    "No. of PDs": 33554,
+                    "No. of Calvings": 4758,
+                    "Farmers Benefited": 89653
+                }
+            },
+            {
+                "name": "SHAMLI",
+                "data": {
+                    "No. of AIs": 113846,
+                    "No. of PDs": 26265,
+                    "No. of Calvings": 7086,
+                    "Farmers Benefited": 77530
+                }
+            },
+            {
+                "name": "LALITPUR",
+                "data": {
+                    "No. of AIs": 112516,
+                    "No. of PDs": 35468,
+                    "No. of Calvings": 4288,
+                    "Farmers Benefited": 83748
+                }
+            },
+            {
+                "name": "AURAIYA",
+                "data": {
+                    "No. of AIs": 105476,
+                    "No. of PDs": 45882,
+                    "No. of Calvings": 10075,
+                    "Farmers Benefited": 76153
+                }
+            },
+            {
+                "name": "JHANSI",
+                "data": {
+                    "No. of AIs": 102810,
+                    "No. of PDs": 17678,
+                    "No. of Calvings": 933,
+                    "Farmers Benefited": 81301
+                }
+            },
+            {
+                "name": "JAUNPUR",
+                "data": {
+                    "No. of AIs": 101722,
+                    "No. of PDs": 21288,
+                    "No. of Calvings": 1134,
+                    "Farmers Benefited": 78475
+                }
+            },
+            {
+                "name": "SHRAVASTI",
+                "data": {
+                    "No. of AIs": 96334,
+                    "No. of PDs": 30359,
+                    "No. of Calvings": 6349,
+                    "Farmers Benefited": 67291
+                }
+            },
+            {
+                "name": "BALRAMPUR",
+                "data": {
+                    "No. of AIs": 95631,
+                    "No. of PDs": 26855,
+                    "No. of Calvings": 2531,
+                    "Farmers Benefited": 55768
+                }
+            },
+            {
+                "name": "SIDDHARTH NAGAR",
+                "data": {
+                    "No. of AIs": 90994,
+                    "No. of PDs": 25426,
+                    "No. of Calvings": 2435,
+                    "Farmers Benefited": 66922
+                }
+            },
+            {
+                "name": "BHADOHI",
+                "data": {
+                    "No. of AIs": 90696,
+                    "No. of PDs": 23832,
+                    "No. of Calvings": 3973,
+                    "Farmers Benefited": 69025
+                }
+            },
+            {
+                "name": "SONBHADRA",
+                "data": {
+                    "No. of AIs": 89393,
+                    "No. of PDs": 17869,
+                    "No. of Calvings": 1688,
+                    "Farmers Benefited": 66732
+                }
+            },
+            {
+                "name": "JALAUN",
+                "data": {
+                    "No. of AIs": 86716,
+                    "No. of PDs": 14508,
+                    "No. of Calvings": 443,
+                    "Farmers Benefited": 64480
+                }
+            },
+            {
+                "name": "GAUTAM BUDDHA NAGAR",
+                "data": {
+                    "No. of AIs": 76932,
+                    "No. of PDs": 21150,
+                    "No. of Calvings": 1755,
+                    "Farmers Benefited": 54642
+                }
+            },
+            {
+                "name": "HAMIRPUR",
+                "data": {
+                    "No. of AIs": 66620,
+                    "No. of PDs": 18909,
+                    "No. of Calvings": 2043,
+                    "Farmers Benefited": 52855
+                }
+            },
+            {
+                "name": "MAU",
+                "data": {
+                    "No. of AIs": 61923,
+                    "No. of PDs": 23407,
+                    "No. of Calvings": 3385,
+                    "Farmers Benefited": 51942
+                }
+            },
+            {
+                "name": "BANDA",
+                "data": {
+                    "No. of AIs": 61359,
+                    "No. of PDs": 16745,
+                    "No. of Calvings": 781,
+                    "Farmers Benefited": 49812
+                }
+            },
+            {
+                "name": "MAHOBA",
+                "data": {
+                    "No. of AIs": 57838,
+                    "No. of PDs": 19961,
+                    "No. of Calvings": 1690,
+                    "Farmers Benefited": 43327
+                }
+            }
+        ]
+    },
+    "WEST BENGAL": {
+        "districts": [
+            {
+                "name": "MURSHIDABAD",
+                "data": {
+                    "No. of AIs": 970035,
+                    "No. of PDs": 421667,
+                    "No. of Calvings": 110103,
+                    "Farmers Benefited": 703067
+                }
+            },
+            {
+                "name": "MEDINIPUR WEST",
+                "data": {
+                    "No. of AIs": 545343,
+                    "No. of PDs": 233947,
+                    "No. of Calvings": 60872,
+                    "Farmers Benefited": 435580
+                }
+            },
+            {
+                "name": "HOOGHLY",
+                "data": {
+                    "No. of AIs": 492428,
+                    "No. of PDs": 205985,
+                    "No. of Calvings": 42489,
+                    "Farmers Benefited": 349869
+                }
+            },
+            {
+                "name": "PURBA BARDHAMAN",
+                "data": {
+                    "No. of AIs": 491603,
+                    "No. of PDs": 221500,
+                    "No. of Calvings": 51525,
+                    "Farmers Benefited": 383137
+                }
+            },
+            {
+                "name": "MALDAH",
+                "data": {
+                    "No. of AIs": 348158,
+                    "No. of PDs": 192155,
+                    "No. of Calvings": 39519,
+                    "Farmers Benefited": 290330
+                }
+            },
+            {
+                "name": "BIRBHUM",
+                "data": {
+                    "No. of AIs": 335018,
+                    "No. of PDs": 164789,
+                    "No. of Calvings": 25851,
+                    "Farmers Benefited": 264119
+                }
+            },
+            {
+                "name": "COOCHBEHAR",
+                "data": {
+                    "No. of AIs": 294491,
+                    "No. of PDs": 97424,
+                    "No. of Calvings": 15639,
+                    "Farmers Benefited": 238624
+                }
+            },
+            {
+                "name": "MEDINIPUR EAST",
+                "data": {
+                    "No. of AIs": 270419,
+                    "No. of PDs": 141169,
+                    "No. of Calvings": 31937,
+                    "Farmers Benefited": 226053
+                }
+            },
+            {
+                "name": "BANKURA",
+                "data": {
+                    "No. of AIs": 255540,
+                    "No. of PDs": 118534,
+                    "No. of Calvings": 14281,
+                    "Farmers Benefited": 207779
+                }
+            },
+            {
+                "name": "24 PARAGANAS SOUTH",
+                "data": {
+                    "No. of AIs": 244788,
+                    "No. of PDs": 107120,
+                    "No. of Calvings": 28979,
+                    "Farmers Benefited": 209070
+                }
+            },
+            {
+                "name": "24 PARAGANAS NORTH",
+                "data": {
+                    "No. of AIs": 232426,
+                    "No. of PDs": 110150,
+                    "No. of Calvings": 17590,
+                    "Farmers Benefited": 180193
+                }
+            },
+            {
+                "name": "DINAJPUR DAKSHIN",
+                "data": {
+                    "No. of AIs": 143725,
+                    "No. of PDs": 57306,
+                    "No. of Calvings": 3204,
+                    "Farmers Benefited": 118834
+                }
+            },
+            {
+                "name": "JALPAIGURI",
+                "data": {
+                    "No. of AIs": 136506,
+                    "No. of PDs": 37795,
+                    "No. of Calvings": 5133,
+                    "Farmers Benefited": 104911
+                }
+            },
+            {
+                "name": "Alipurduar",
+                "data": {
+                    "No. of AIs": 106792,
+                    "No. of PDs": 31031,
+                    "No. of Calvings": 1972,
+                    "Farmers Benefited": 82675
+                }
+            },
+            {
+                "name": "HOWRAH",
+                "data": {
+                    "No. of AIs": 95751,
+                    "No. of PDs": 37461,
+                    "No. of Calvings": 7661,
+                    "Farmers Benefited": 70444
+                }
+            },
+            {
+                "name": "PURULIA",
+                "data": {
+                    "No. of AIs": 82014,
+                    "No. of PDs": 21195,
+                    "No. of Calvings": 4738,
+                    "Farmers Benefited": 64109
+                }
+            },
+            {
+                "name": "Jhargram",
+                "data": {
+                    "No. of AIs": 51627,
+                    "No. of PDs": 23826,
+                    "No. of Calvings": 1963,
+                    "Farmers Benefited": 46419
+                }
+            },
+            {
+                "name": "PASCHIM BARDHAMAN",
+                "data": {
+                    "No. of AIs": 50529,
+                    "No. of PDs": 25273,
+                    "No. of Calvings": 9824,
+                    "Farmers Benefited": 33814
+                }
+            },
+            {
+                "name": "DARJEELING",
+                "data": {
+                    "No. of AIs": 22110,
+                    "No. of PDs": 7093,
+                    "No. of Calvings": 1379,
+                    "Farmers Benefited": 17273
+                }
+            },
+            {
+                "name": "KALIMPONG",
+                "data": {
+                    "No. of AIs": 2276,
+                    "No. of PDs": 500,
+                    "No. of Calvings": 30,
+                    "Farmers Benefited": 2018
+                }
+            }
+        ]
+    }
+}

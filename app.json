@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "greeneye",
+    "slug": "greeneye",
+    "scheme": "green-eye",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.karthik.io.greeneye"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9406148d-805c-4f37-a05d-b9af073919eb"
+      }
+    }
+  }, 
+  "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photoCameraPermission": "The app needs access to your camera.",
+          "imageLibraryPermission": "The app needs access to your photos."
+        }
+      ]
+    ]
+}
