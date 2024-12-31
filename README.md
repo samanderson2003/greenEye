@@ -1,5 +1,6 @@
 Cattle Health Monitoring and Disease Diagnosis System
 Overview
+
 This project leverages Artificial Intelligence to transform disease diagnosis and reporting for farmers and veterinarians, offering an innovative mobile application that streamlines livestock health management. Developed using React Native and JavaScript, the app is designed to enhance agricultural productivity and ensure sustainable practices by predicting, diagnosing, and addressing cattle health issues effectively.
 
 Features
